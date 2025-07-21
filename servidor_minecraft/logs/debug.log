@@ -3091,3 +3091,139 @@ java.lang.IllegalStateException: not found
 [21Jul2025 18:38:29.090] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [21Jul2025 18:38:29.091] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [21Jul2025 18:38:29.091] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[21Jul2025 18:39:59.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 18:39:59.929] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 18:44:27.390] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[21Jul2025 18:44:50.288] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/town_centers/snowy_meeting_point_1
+[21Jul2025 18:44:50.379] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_02
+[21Jul2025 18:44:50.395] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_farm_1
+[21Jul2025 18:44:50.396] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_03
+[21Jul2025 18:44:50.398] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_04
+[21Jul2025 18:44:59.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 18:44:59.842] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 18:45:35.668] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[21Jul2025 18:45:35.888] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[21Jul2025 18:45:35.956] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[21Jul2025 18:45:35.989] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[21Jul2025 18:45:36.003] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[21Jul2025 18:45:36.027] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[21Jul2025 18:45:36.066] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[21Jul2025 18:45:36.088] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[21Jul2025 18:45:36.108] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[21Jul2025 18:45:36.137] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[21Jul2025 18:45:36.153] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[21Jul2025 18:45:36.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[21Jul2025 18:45:36.163] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[21Jul2025 18:45:36.192] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[21Jul2025 18:45:36.239] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[21Jul2025 18:45:36.275] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[21Jul2025 18:45:36.901] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[21Jul2025 18:45:51.493] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[21Jul2025 18:45:57.538] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/2x2/tunnel
+[21Jul2025 18:45:57.693] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[21Jul2025 18:46:00.816] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[21Jul2025 18:46:00.817] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[21Jul2025 18:46:00.819] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[21Jul2025 18:46:00.822] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[21Jul2025 18:46:00.822] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[21Jul2025 18:46:00.903] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[21Jul2025 18:46:00.903] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[21Jul2025 18:46:03.480] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-274, y=-57, z=-245}
+[21Jul2025 18:46:03.483] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-276, y=-57, z=-243}
+[21Jul2025 18:46:03.483] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-277, y=-57, z=-244}
+[21Jul2025 18:46:47.923] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_meeting_point_1 is being run through DFU (hash f05b8780ec7da90d6d6d1413304702e41494fff0fa47027e16295cec86a18604), this will cause launch time delays
+[21Jul2025 18:46:50.234] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/plains/town_centers/plains_meeting_point_1 is being run through DFU (hash d83e7f4f286e0960303ccbafbc5c210023d381ebf9ea316dce65a1f452b07d98), this will cause launch time delays
+[21Jul2025 18:46:50.314] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/desert/town_centers/desert_meeting_point_2 is being run through DFU (hash 982fb1fb99bbbb8061a254e9336563f6db3431bc93ebbb4275708f7f5872af63), this will cause launch time delays
+[21Jul2025 18:46:50.439] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_2
+[21Jul2025 18:46:50.793] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/taiga/houses/taiga_weaponsmith_2 is being run through DFU (hash a3b72b885ca051041411b7091ab30629dd3da3e9b2fb58a406eec53efcfc59c8), this will cause launch time delays
+[21Jul2025 18:46:50.821] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/taiga/houses/taiga_large_farm_1 is being run through DFU (hash 4347cdbbbac755d147ec5a74225245d6a8ead68926e86e56dd7b049ccc835865), this will cause launch time delays
+[21Jul2025 18:46:50.833] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/taiga/houses/taiga_large_farm_2 is being run through DFU (hash 8cdbd1aec25a6654723950f9ea36b214733fd6d1bba32d6fdf745c5e59fe5027), this will cause launch time delays
+[21Jul2025 18:46:50.844] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/taiga/houses/taiga_small_farm_1 is being run through DFU (hash 713144b12322754608f30b0ef49ce3164a3fb567322842e498c839fc82371bcb), this will cause launch time delays
+[21Jul2025 18:46:50.859] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[21Jul2025 18:47:16.775] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[21Jul2025 18:47:16.838] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[21Jul2025 18:47:16.873] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_6 is being run through DFU (hash fc412bc441f52e517d132887d71fc75c953272010496dbe356e77d33943fe26d), this will cause launch time delays
+[21Jul2025 18:47:19.023] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=729}
+[21Jul2025 18:47:19.023] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=734}
+[21Jul2025 18:47:19.024] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=731}
+[21Jul2025 18:47:19.024] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=732}
+[21Jul2025 18:47:19.024] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=729}
+[21Jul2025 18:47:23.099] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[21Jul2025 18:47:23.503] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=734}
+[21Jul2025 18:47:23.504] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=731}
+[21Jul2025 18:47:23.504] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=732}
+[21Jul2025 18:47:38.454] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-284, y=-57, z=-394}
+[21Jul2025 18:47:38.510] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-176, y=-50, z=-133}
+[21Jul2025 18:47:38.511] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-172, y=-50, z=-135}
+[21Jul2025 18:47:42.045] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-151}
+[21Jul2025 18:47:42.046] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-46, z=-143}
+[21Jul2025 18:47:42.058] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-286, y=-57, z=-393}
+[21Jul2025 18:47:42.239] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-185, y=-46, z=-142}
+[21Jul2025 18:47:53.183] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_3
+[21Jul2025 18:47:53.195] [Worker-Main-14/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_meeting_point_2 is being run through DFU (hash 399310245869f8af9825a680e2e12f5fa991210a6ec36193898679c5a54fd5c7), this will cause launch time delays
+[21Jul2025 18:48:00.091] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[21Jul2025 18:48:00.110] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_1 is being run through DFU (hash f4f52708cd3974ec744c0b865a0ce90a99c8a64fc7ee182cb67d059f84a05629), this will cause launch time delays
+[21Jul2025 18:48:00.148] [Worker-Main-14/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[21Jul2025 18:48:00.150] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_2 is being run through DFU (hash 21e83b1170d130d92bcfe5439c1418162bc7bead365ee48366543caa05df50db), this will cause launch time delays
+[21Jul2025 18:48:00.166] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_1 is being run through DFU (hash 7b21fdffa7a9a5e0e199ee3fec061057c30bcb8da0c3e7736def8138a8cfea17), this will cause launch time delays
+[21Jul2025 18:48:00.189] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_4 is being run through DFU (hash 5b88508f035a2a021b620463f9bc58546e95f50471753329928c1513c0189bf3), this will cause launch time delays
+[21Jul2025 18:48:00.203] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_roots_0 is being run through DFU (hash 962578fc7708746b628dca27fc3a85a519af2f79f85afd8bffffb1138e260900), this will cause launch time delays
+[21Jul2025 18:48:00.212] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_0 is being run through DFU (hash 9cc06412e75087b92ed78b7dc654702e658cb5ce732ffc856406f4b7ae888920), this will cause launch time delays
+[21Jul2025 18:48:00.310] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_3 is being run through DFU (hash 3ac376c9a279c6182c0df40bd79f9aefa7a7a2e45a1fbd70c7fc5c52d8fdfcd0), this will cause launch time delays
+[21Jul2025 18:48:00.326] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_3 is being run through DFU (hash dc7ad5f772feeefdec83c877a8e9805d0ff6ad7ae6b852e7fdca4e06051538ab), this will cause launch time delays
+[21Jul2025 18:48:00.366] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_top_0 is being run through DFU (hash e8b079de93e43a9fffc70c7061ec60a545625d1d837c700e9d23afe0b04f9d93), this will cause launch time delays
+[21Jul2025 18:48:00.435] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[21Jul2025 18:48:00.442] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_1 is being run through DFU (hash 4b0d122034d49d15b17168a012434b4f0184fe803ad83ad9822a65ee2b333ced), this will cause launch time delays
+[21Jul2025 18:48:00.450] [Worker-Main-14/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_piglin_2 is being run through DFU (hash 0b6bd83133060f95020b74da9d341154182afccc938e0168c6d6d1536023c600), this will cause launch time delays
+[21Jul2025 18:48:06.068] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8110, y=-57, z=687}
+[21Jul2025 18:48:06.074] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=729}
+[21Jul2025 18:48:06.075] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=729}
+[21Jul2025 18:48:14.483] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-53, z=676}
+[21Jul2025 18:48:19.415] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[21Jul2025 18:48:19.701] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[21Jul2025 18:48:19.807] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-47, z=776}
+[21Jul2025 18:48:21.322] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8154, y=-57, z=439}
+[21Jul2025 18:48:33.546] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[21Jul2025 18:48:34.846] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=734}
+[21Jul2025 18:48:34.908] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=729}
+[21Jul2025 18:48:34.909] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=731}
+[21Jul2025 18:48:34.910] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=732}
+[21Jul2025 18:48:34.910] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=729}
+[21Jul2025 18:48:39.387] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[21Jul2025 18:48:46.582] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8154, y=-57, z=439}
+[21Jul2025 18:48:47.149] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[21Jul2025 18:48:54.086] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2480ms or 49 ticks behind
+[21Jul2025 18:48:58.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was shot by Huntsman
+[21Jul2025 18:49:01.345] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=250}
+[21Jul2025 18:49:02.914] [Worker-Main-14/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=250}
+[21Jul2025 18:49:03.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was shot by Huntsman
+[21Jul2025 18:50:02.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 18:50:02.270] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 18:50:56.751] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[21Jul2025 18:50:56.768] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[21Jul2025 18:50:56.771] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[21Jul2025 18:50:56.772] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[21Jul2025 18:50:56.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[21Jul2025 18:50:56.792] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[21Jul2025 18:50:56.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[21Jul2025 18:50:56.799] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[21Jul2025 18:50:56.800] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[21Jul2025 18:51:38.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was poked to death by a sweet berry bush whilst trying to escape Zombie
+[21Jul2025 18:51:45.902] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=250}
+[21Jul2025 18:52:24.302] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[21Jul2025 18:52:25.406] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=250}
+[21Jul2025 18:52:45.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Minecraft Comes Alive]
+[21Jul2025 18:52:59.391] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[21Jul2025 18:52:59.424] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[21Jul2025 18:52:59.426] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[21Jul2025 18:52:59.428] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[21Jul2025 18:52:59.430] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[21Jul2025 18:52:59.451] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[21Jul2025 18:52:59.462] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[21Jul2025 18:52:59.465] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[21Jul2025 18:52:59.480] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[21Jul2025 18:52:59.483] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[21Jul2025 18:55:02.257] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 18:55:02.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 18:56:26.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Minecraft Comes Alive]
+[21Jul2025 18:58:29.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Suit Up]
