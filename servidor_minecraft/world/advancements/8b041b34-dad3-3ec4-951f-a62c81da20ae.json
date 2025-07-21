@@ -1625,6 +1625,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "killed": "2025-07-21 19:33:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_cut_copper": {
     "criteria": {
       "has_waxed_copper_block": "2025-07-21 19:19:53 +0000"
@@ -1688,6 +1694,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-21 18:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 19:34:40 +0000"
     },
     "done": true
   },
@@ -1892,6 +1904,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-21 19:19:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 19:34:40 +0000"
     },
     "done": true
   },
