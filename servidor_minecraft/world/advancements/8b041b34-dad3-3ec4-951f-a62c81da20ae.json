@@ -419,7 +419,9 @@
       "cooked_mutton": "2025-07-20 06:26:46 +0000",
       "cooked_beef": "2025-07-20 08:14:47 +0000",
       "potato": "2025-07-20 06:52:29 +0000",
-      "bread": "2025-07-20 08:02:13 +0000"
+      "bread": "2025-07-20 08:02:13 +0000",
+      "rotten_flesh": "2025-07-21 04:10:38 +0000",
+      "cooked_chicken": "2025-07-21 04:08:53 +0000"
     },
     "done": false
   },
@@ -1243,6 +1245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-21 04:11:16 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:48 +0000"
@@ -1384,6 +1392,12 @@
   "mca:recipes/decorations/light_blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-07-21 04:11:16 +0000"
     },
     "done": true
   },
