@@ -680,3 +680,18 @@ java.lang.IllegalStateException: not found
 [21Jul2025 19:54:39.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
 [21Jul2025 19:55:23.414] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread lost connection: Disconnected
 [21Jul2025 19:55:23.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread left the game
+[21Jul2025 20:05:52.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[21Jul2025 20:05:52.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[21Jul2025 20:05:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[21Jul2025 20:05:52.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[21Jul2025 20:05:52.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[21Jul2025 20:05:52.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[21Jul2025 20:05:52.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[21Jul2025 20:05:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[21Jul2025 20:05:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[21Jul2025 20:05:52.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[21Jul2025 20:05:52.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[21Jul2025 20:05:52.367] [Server thread/INFO] [Framework/]: Unloading server configs...
+[21Jul2025 20:05:52.370] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[21Jul2025 20:05:52.371] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[21Jul2025 20:05:52.375] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
