@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "8b041b34-dad3-3ec4-951f-a62c81da20ae",
+    "name": "ZeusBread",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

@@ -655,3 +655,11 @@ java.lang.IllegalStateException: not found
 [21Jul2025 19:08:09.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Ice Bucket Challenge]
 [21Jul2025 19:08:56.476] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Seid'/9799, l='ServerLevel[world]', x=-1534.30, y=84.94, z=-830.42] died, message: 'Seid was slain by Sprinter'
 [21Jul2025 19:08:56.477] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Seid'/9799, l='ServerLevel[world]', x=-1534.30, y=84.94, z=-830.42] died: Seid was slain by Sprinter
+[21Jul2025 19:09:35.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Husk
+[21Jul2025 19:10:02.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jul2025 19:10:02.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP ZerusBread<--[HERE]
+[21Jul2025 19:10:19.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[21Jul2025 19:10:19.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: OP ZeusBread<--[HERE]
+[21Jul2025 19:10:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ZeusBread a server operator
+[21Jul2025 19:10:53.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
+[21Jul2025 19:12:21.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
