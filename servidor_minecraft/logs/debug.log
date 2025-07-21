@@ -4656,3 +4656,31 @@ java.lang.IllegalStateException: not found
 [21Jul2025 03:30:37.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vahid'/2935, l='ServerLevel[world]', x=-658.13, y=81.00, z=-689.89] died, message: 'Vahid hit the ground too hard'
 [21Jul2025 03:32:54.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jul2025 03:32:54.763] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:37:54.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:37:54.751] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:42:24.077] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[21Jul2025 03:42:24.093] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[21Jul2025 03:42:24.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[21Jul2025 03:42:24.099] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[21Jul2025 03:42:24.101] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[21Jul2025 03:42:24.105] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[21Jul2025 03:42:24.110] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[21Jul2025 03:42:54.747] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:42:54.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:44:55.022] [Worker-Main-1/DEBUG] [mixin/]: Mixing JigsawPlacementPlacerMixin from waystones.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement$Placer
+[21Jul2025 03:44:55.076] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/ocean_pyramid
+[21Jul2025 03:44:55.527] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[21Jul2025 03:44:55.582] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:sand_pyramid/pyramid2
+[21Jul2025 03:44:56.568] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:mossy_pyramid/pyramid2
+[21Jul2025 03:44:57.119] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[21Jul2025 03:45:32.571] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/town_centers/snowy_meeting_point_1 is being run through DFU (hash 84c475856668335bb05db9ac35b3fcd94620de55cdd160adef600b795638e084), this will cause launch time delays
+[21Jul2025 03:45:33.861] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/savanna/town_centers/savanna_meeting_point_4 is being run through DFU (hash 83c5edbeb43bc4edfc208960bf36e3ecefc55e3fdf6cf2e40ce1bd8156e9a57c), this will cause launch time delays
+[21Jul2025 03:45:33.951] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/taiga/town_centers/taiga_meeting_point_2 is being run through DFU (hash 84fe8f3563ba7c77b45142f20b7ee7a37c2bbcf0f8f7e0a9720e614376154ee0), this will cause launch time delays
+[21Jul2025 03:45:34.023] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/plains/town_centers/plains_meeting_point_3 is being run through DFU (hash c8466ed51ee20d0ac6680ccaa9108f5c5071ceb7164d20f913e8b5c891b24ac2), this will cause launch time delays
+[21Jul2025 03:45:34.079] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/desert/town_centers/desert_meeting_point_3 is being run through DFU (hash f1dbb673486c77cffcde7a98a97f692e109db01300eb0df51db44c844735b934), this will cause launch time delays
+[21Jul2025 03:45:34.852] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[21Jul2025 03:45:35.369] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[21Jul2025 03:45:35.676] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree2
+[21Jul2025 03:45:35.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
+[21Jul2025 03:45:35.884] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
+[21Jul2025 03:45:35.910] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2

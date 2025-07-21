@@ -1904,3 +1904,4 @@ java.lang.IllegalStateException: not found
 [21Jul2025 03:28:42.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Alex's Mobs]
 [21Jul2025 03:29:36.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Is this... blood?]
 [21Jul2025 03:30:37.095] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vahid'/2935, l='ServerLevel[world]', x=-658.13, y=81.00, z=-689.89] died, message: 'Vahid hit the ground too hard'
+[21Jul2025 03:44:57.119] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
