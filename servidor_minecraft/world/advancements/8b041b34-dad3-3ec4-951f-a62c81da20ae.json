@@ -517,6 +517,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-20 07:59:44 +0000",
       "minecraft:spider": "2025-07-20 07:57:41 +0000",
+      "minecraft:creeper": "2025-07-21 03:49:22 +0000",
       "minecraft:enderman": "2025-07-21 03:31:47 +0000",
       "minecraft:zombie": "2025-07-20 06:39:20 +0000"
     },
@@ -1248,9 +1249,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-21 03:48:30 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/white_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-07-21 03:48:30 +0000"
     },
     "done": true
   },
@@ -1302,9 +1315,21 @@
     },
     "done": true
   },
+  "mca:recipes/misc/whistle": {
+    "criteria": {
+      "has_item": "2025-07-21 03:44:55 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/comb": {
+    "criteria": {
+      "has_item": "2025-07-21 03:44:55 +0000"
     },
     "done": true
   },
@@ -1341,6 +1366,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_smoking": {
     "criteria": {
       "has_porkchop": "2025-07-21 03:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-07-21 03:48:30 +0000"
     },
     "done": true
   },

@@ -4684,3 +4684,35 @@ java.lang.IllegalStateException: not found
 [21Jul2025 03:45:35.855] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree3
 [21Jul2025 03:45:35.884] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree3
 [21Jul2025 03:45:35.910] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree2
+[21Jul2025 03:47:54.730] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:47:54.736] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:48:30.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Isn't It Iron Pick]
+[21Jul2025 03:49:39.856] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[21Jul2025 03:49:39.993] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree4
+[21Jul2025 03:49:40.042] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove1
+[21Jul2025 03:50:29.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by The Ravenous (phase 0)
+[21Jul2025 03:50:47.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was doomed to fall by The Ravenous (phase 0)
+[21Jul2025 03:50:55.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by The Ravenous (phase 0)
+[21Jul2025 03:50:55.127] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[21Jul2025 03:50:55.243] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[21Jul2025 03:50:55.396] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_challenger/heavenly_challenger_part_2
+[21Jul2025 03:50:55.413] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[21Jul2025 03:50:55.423] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[21Jul2025 03:50:55.442] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:mining_system/mining_system_turn_0 is being run through DFU (hash e25d526a570fcd152c18558d5226a2f763e58a6bcb4c84a917fa966e79de7140), this will cause launch time delays
+[21Jul2025 03:50:55.803] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_galley/illager_galley_part_0
+[21Jul2025 03:50:55.820] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_pillager_0 is being run through DFU (hash 5b954e6c9a153dc96aee542ae8e2813d5466cd4bdc9d7627224d581e8e589b37), this will cause launch time delays
+[21Jul2025 03:50:56.008] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_vindicator_spawner_0 is being run through DFU (hash 1bdbb5904e08c005d77c14cf57dae04bc3b5c0b8f46bdaf5c0a9ae4bb5d4f0a6), this will cause launch time delays
+[21Jul2025 03:50:56.078] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:illager_galley/illager_galley_part_1 is being run through DFU (hash 3d16c532accd418b367cbe09e51d1891de4babcf4850540b09236f593188cfab), this will cause launch time delays
+[21Jul2025 03:50:56.268] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_0_main is being run through DFU (hash fdaaae3527bd087ae85b0ae4174af4bc8e5fb752d703b2cfbedea3cec78e2eaa), this will cause launch time delays
+[21Jul2025 03:50:56.347] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[21Jul2025 03:50:56.429] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[21Jul2025 03:50:56.450] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[21Jul2025 03:50:56.475] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[21Jul2025 03:50:56.497] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[21Jul2025 03:50:57.162] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/plains/town_centers/plains_fountain_01 is being run through DFU (hash 53d6d2863ae1f91b635101c7a25785c91aad30a280a390a53363cfe70159c31b), this will cause launch time delays
+[21Jul2025 03:50:57.206] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/desert/town_centers/desert_meeting_point_1 is being run through DFU (hash 3bbc485455938b92abea869cc28e2eb02b3d89e3611d487408e0196d857b0e8d), this will cause launch time delays
+[21Jul2025 03:50:59.625] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4487ms or 89 ticks behind
+[21Jul2025 03:52:59.190] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:52:59.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:54:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Not Today, Thank You]
+[21Jul2025 03:57:13.369] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
