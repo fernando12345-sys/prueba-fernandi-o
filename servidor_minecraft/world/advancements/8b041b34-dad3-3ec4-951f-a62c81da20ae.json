@@ -1703,6 +1703,12 @@
     },
     "done": true
   },
+  "the_ravenous:ravenous_egg_trophy": {
+    "criteria": {
+      "ravenous_egg_trophy_0": "2025-07-21 19:52:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2025-07-21 19:16:42 +0000"
