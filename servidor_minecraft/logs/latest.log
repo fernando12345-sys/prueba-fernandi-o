@@ -671,3 +671,6 @@ java.lang.IllegalStateException: not found
 [21Jul2025 19:31:55.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 fell from a high place
 [21Jul2025 19:32:53.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Convergent Evolution...]
 [21Jul2025 19:33:35.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Convergent Evolution...]
+[21Jul2025 19:44:46.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has reached the goal [Hunted]
+[21Jul2025 19:45:04.868] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[21Jul2025 19:45:04.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game

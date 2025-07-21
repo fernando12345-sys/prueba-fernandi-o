@@ -812,6 +812,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-07-20 07:26:39 +0000",
       "minecraft:spider": "2025-07-20 07:36:28 +0000",
+      "minecraft:creeper": "2025-07-21 19:43:43 +0000",
       "minecraft:husk": "2025-07-21 19:21:27 +0000",
       "minecraft:zombie": "2025-07-20 06:55:27 +0000"
     },
@@ -1723,6 +1724,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 19:43:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-07-21 18:46:15 +0000"
@@ -1948,6 +1955,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-07-21 18:56:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-21 19:43:01 +0000"
     },
     "done": true
   },
