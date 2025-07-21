@@ -4716,3 +4716,25 @@ java.lang.IllegalStateException: not found
 [21Jul2025 03:52:59.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jul2025 03:54:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Not Today, Thank You]
 [21Jul2025 03:57:13.369] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_2
+[21Jul2025 03:57:27.213] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=77, z=-655} BlockPos{x=-765, y=75, z=-654}
+[21Jul2025 03:57:27.266] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=77, z=-655} BlockPos{x=-765, y=75, z=-654}
+[21Jul2025 03:57:27.310] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-766, y=77, z=-655} BlockPos{x=-765, y=75, z=-654}
+[21Jul2025 03:57:31.161] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree2
+[21Jul2025 03:57:59.185] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 03:57:59.193] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 03:59:42.423] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[21Jul2025 03:59:42.458] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[21Jul2025 04:01:05.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-673, y=78, z=-709} BlockPos{x=-674, y=77, z=-711}
+[21Jul2025 04:01:05.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-673, y=78, z=-709} BlockPos{x=-674, y=77, z=-711}
+[21Jul2025 04:01:05.606] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-673, y=78, z=-709} BlockPos{x=-674, y=77, z=-711}
+[21Jul2025 04:01:08.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-675, y=79, z=-719} BlockPos{x=-677, y=77, z=-720}
+[21Jul2025 04:01:08.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-675, y=79, z=-719} BlockPos{x=-677, y=77, z=-720}
+[21Jul2025 04:01:32.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [The Parrots and the Bats]
+[21Jul2025 04:02:09.957] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=77, z=-729} BlockPos{x=-654, y=77, z=-729}
+[21Jul2025 04:02:10.010] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=77, z=-729} BlockPos{x=-654, y=77, z=-729}
+[21Jul2025 04:02:10.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=77, z=-729} BlockPos{x=-654, y=77, z=-729}
+[21Jul2025 04:02:10.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=77, z=-729} BlockPos{x=-654, y=77, z=-729}
+[21Jul2025 04:02:10.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=77, z=-729} BlockPos{x=-654, y=77, z=-729}
+[21Jul2025 04:02:10.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-653, y=77, z=-729} BlockPos{x=-654, y=77, z=-729}
+[21Jul2025 04:02:59.188] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 04:02:59.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

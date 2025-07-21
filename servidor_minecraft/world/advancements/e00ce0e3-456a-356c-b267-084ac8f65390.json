@@ -627,6 +627,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-20 08:06:36 +0000",
       "cooked_mutton": "2025-07-20 06:34:05 +0000",
+      "sweet_berries": "2025-07-21 03:56:28 +0000",
       "bread": "2025-07-20 07:57:35 +0000",
       "cooked_chicken": "2025-07-21 03:47:23 +0000"
     },
@@ -1156,6 +1157,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-07-21 03:57:29 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:54 +0000"
@@ -1171,6 +1178,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-07-21 03:24:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-21 03:54:33 +0000"
     },
     "done": true
   },
@@ -1282,6 +1295,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-07-21 04:01:32 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/black_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:54 +0000"
@@ -1306,6 +1325,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:chicken": "2025-07-21 04:01:32 +0000"
+    },
+    "done": false
+  },
   "mca:recipes/decorations/white_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-07-21 03:43:44 +0000"
@@ -1315,6 +1340,12 @@
   "mca:recipes/decorations/light_blue_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:54 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2025-07-21 03:57:29 +0000"
     },
     "done": true
   },
