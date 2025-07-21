@@ -4745,3 +4745,40 @@ java.lang.IllegalStateException: not found
 [21Jul2025 04:12:59.175] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Jul2025 04:12:59.181] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [21Jul2025 04:13:46.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by Equestrian
+[21Jul2025 04:17:59.192] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 04:17:59.200] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 04:19:04.299] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[21Jul2025 04:19:04.353] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[21Jul2025 04:19:04.368] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[21Jul2025 04:19:04.410] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_1
+[21Jul2025 04:19:04.482] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_5
+[21Jul2025 04:19:04.521] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[21Jul2025 04:19:04.532] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[21Jul2025 04:19:04.536] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[21Jul2025 04:19:04.537] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[21Jul2025 04:19:04.582] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[21Jul2025 04:19:04.647] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[21Jul2025 04:19:04.673] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[21Jul2025 04:19:05.264] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/torchless_tunnel
+[21Jul2025 04:19:12.286] [Server thread/DEBUG] [ModernFix/]: Structure minecraft:village/plains/terminators/terminator_02 is being run through DFU (hash 277471ea07ea0c5e3fc6bc5c81d91a7d65a6b80ce10bb81ba62d7feab46b51c2), this will cause launch time delays
+[21Jul2025 04:19:12.381] [Server thread/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/houses/snowy_farm_1 is being run through DFU (hash 86fc99fadbaaf60c266ac9172b15031502fffacd7821c92e8a83369f6b067af2), this will cause launch time delays
+[21Jul2025 04:19:12.386] [Server thread/DEBUG] [ModernFix/]: Structure minecraft:village/plains/terminators/terminator_03 is being run through DFU (hash e69f3cd4ff858971644b69dfe5eb45df924ebc68dacd8c4b0d7eac07bf20839b), this will cause launch time delays
+[21Jul2025 04:19:12.389] [Server thread/DEBUG] [ModernFix/]: Structure minecraft:village/plains/terminators/terminator_04 is being run through DFU (hash b2c988756589545a5fbbb56e02ca0f48cd47db62d41335e4eec940223f5ed29a), this will cause launch time delays
+[21Jul2025 04:19:28.766] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[21Jul2025 04:19:33.932] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[21Jul2025 04:20:35.818] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/start_castle is being run through DFU (hash 6f4590aebb6753de05226c0d12fb8db277493b3c90da83f6e18fd394b95a53d5), this will cause launch time delays
+[21Jul2025 04:20:36.065] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend1 is being run through DFU (hash dfd55ed6fb8dbad706164993e7e1aab1fc814fe23a2f7be8b621c994b4118f0f), this will cause launch time delays
+[21Jul2025 04:20:36.226] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/bend2 is being run through DFU (hash 84e95bfde4d28347074b278cfacb2be185c2fc11a1afb1cfb8e6c356c9bb66ba), this will cause launch time delays
+[21Jul2025 04:20:36.583] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight2 is being run through DFU (hash bdb2e3e0151dbfe85370a027fdb9f291780d0fc92627f13f612910548cbc234f), this will cause launch time delays
+[21Jul2025 04:20:36.649] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/straight1 is being run through DFU (hash 4a018179f4091762355585a516df34c84496d4f75f78d5877f224bc666545ffa), this will cause launch time delays
+[21Jul2025 04:20:36.667] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t2 is being run through DFU (hash 90cd79756951abebab3b7d26a66d78c13a7e2ff1c79b2c7c2cf3dbdb47749ae0), this will cause launch time delays
+[21Jul2025 04:20:36.682] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term1 is being run through DFU (hash 4e17199e1fd91b3aeeb258eb757ab84cc78d7cac13c8a0d97456cee903cf8fa3), this will cause launch time delays
+[21Jul2025 04:20:36.687] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/t1 is being run through DFU (hash b9cac668944bcf60fe9691756ee628f5e82f7f2d81f39fc6d2498dea8fe9e89d), this will cause launch time delays
+[21Jul2025 04:20:36.691] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/inter1 is being run through DFU (hash 4e8fc473da2220f2e0fb44202ebdf37c63d78f44f4c52f84fc357bb5e72190e4), this will cause launch time delays
+[21Jul2025 04:20:36.704] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term2 is being run through DFU (hash 42d9ab04a9e2740e7009c385bd8ce365082f20271eb28e3e32b91db2c9feca16), this will cause launch time delays
+[21Jul2025 04:20:36.714] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/roads/intersection_big is being run through DFU (hash e1d39000b62f7e92df288f95bf6da184026d6b5cb67c6adef7380d2e9f5290c7), this will cause launch time delays
+[21Jul2025 04:20:36.776] [Worker-Main-1/DEBUG] [ModernFix/]: Structure terralith:village/fortified/terminators/term3 is being run through DFU (hash 815d826fcc91aabfd7fabd8e9fdf252504627fb7674055b8ded6680715fa6806), this will cause launch time delays
+[21Jul2025 04:22:00.910] [Worker-Main-1/DEBUG] [ModernFix/]: Structure watching:torch_tunnel/2x2/tunnel is being run through DFU (hash 0e53cbc1eb5dd0e345664796a1079053ae3fba52a126b8d81c3150122048082a), this will cause launch time delays
+[21Jul2025 04:22:59.202] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Jul2025 04:22:59.213] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Jul2025 04:25:18.236] [Worker-Main-1/DEBUG] [ModernFix/]: Structure watching:redstone_torch_trail/trail1 is being run through DFU (hash 3d7ce7449b26fe15f95837b28cc3e72d4a02828ca120dbd58b97ac5b013476bc), this will cause launch time delays

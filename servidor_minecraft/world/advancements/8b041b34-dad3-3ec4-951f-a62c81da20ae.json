@@ -417,6 +417,7 @@
     "criteria": {
       "cooked_porkchop": "2025-07-20 08:05:17 +0000",
       "cooked_mutton": "2025-07-20 06:26:46 +0000",
+      "sweet_berries": "2025-07-21 04:22:21 +0000",
       "cooked_beef": "2025-07-20 08:14:47 +0000",
       "potato": "2025-07-20 06:52:29 +0000",
       "bread": "2025-07-20 08:02:13 +0000",
@@ -1293,6 +1294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-07-21 04:17:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-07-21 03:28:42 +0000"
@@ -1410,6 +1417,12 @@
   "mca:recipes/decorations/gray_birch_crib": {
     "criteria": {
       "has_birch_planks": "2025-07-21 03:24:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-07-21 04:17:10 +0000"
     },
     "done": true
   },
