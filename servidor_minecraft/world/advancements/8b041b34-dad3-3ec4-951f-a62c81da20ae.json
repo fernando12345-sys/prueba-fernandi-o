@@ -521,6 +521,7 @@
       "minecraft:skeleton": "2025-07-20 07:59:44 +0000",
       "minecraft:spider": "2025-07-20 07:57:41 +0000",
       "minecraft:creeper": "2025-07-21 03:49:22 +0000",
+      "minecraft:husk": "2025-07-21 19:00:02 +0000",
       "minecraft:enderman": "2025-07-21 03:31:47 +0000",
       "minecraft:zombie": "2025-07-20 06:39:20 +0000"
     },
@@ -1513,6 +1514,72 @@
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-07-21 04:17:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-07-21 18:58:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-21 19:02:04 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-07-21 19:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-07-21 18:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-07-21 18:57:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-07-21 19:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-07-21 18:56:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-07-21 19:02:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-07-21 18:57:28 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-07-21 18:58:52 +0000"
+    },
+    "done": true
+  },
+  "mca:root": {
+    "criteria": {
+      "village_taiga": "2025-07-21 18:56:26 +0000"
     },
     "done": true
   },
