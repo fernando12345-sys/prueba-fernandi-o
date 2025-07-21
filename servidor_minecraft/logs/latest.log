@@ -663,3 +663,6 @@ java.lang.IllegalStateException: not found
 [21Jul2025 19:10:45.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made ZeusBread a server operator
 [21Jul2025 19:10:53.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
 [21Jul2025 19:12:21.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[21Jul2025 19:23:45.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Take Aim]
+[21Jul2025 19:27:57.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by Skeleton
+[21Jul2025 19:29:11.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Isn't It Iron Pick]
