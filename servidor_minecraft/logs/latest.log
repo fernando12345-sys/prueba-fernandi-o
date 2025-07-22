@@ -12842,3 +12842,5 @@ java.lang.IllegalStateException: not found
 [22Jul2025 02:39:26.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Suit Up]
 [22Jul2025 02:39:33.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Ice Bucket Challenge]
 [22Jul2025 02:40:21.979] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3684ms or 73 ticks behind
+[22Jul2025 02:43:55.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread drowned
+[22Jul2025 02:48:01.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Friendship Found]
