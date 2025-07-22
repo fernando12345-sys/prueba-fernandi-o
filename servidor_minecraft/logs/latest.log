@@ -815,3 +815,121 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jul2025 03:28:01.478] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: smoothchunk.json
 [22Jul2025 03:28:01.479] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: betterfpsdist.json
 [22Jul2025 03:28:01.488] [Server thread/WARN] [ModernFix/]: Dedicated server took 61.357 seconds to load
+[22Jul2025 03:37:28.246] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d40905d[id=<null>,name=ZeusBread,properties={},legacy=false] (/127.95.195.190:55315) lost connection: Disconnected
+[22Jul2025 03:37:47.440] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@315b447b[id=<null>,name=ZeusBread,properties={},legacy=false] (/127.95.195.190:44091) lost connection: Disconnected
+[22Jul2025 03:38:04.521] [Thread-29/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:hitmanms0715'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23188!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23188!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23188!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23188!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md986cd9$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md986cd9$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[server-1.20.1-20230612.114412-srg.jar%23199!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[22Jul2025 03:38:04.602] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e00ce0e3-456a-356c-b267-084ac8f65390.json: Don't know what the_ravenous:the_ravenous is
+[22Jul2025 03:38:04.605] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/e00ce0e3-456a-356c-b267-084ac8f65390.json: Don't know what man:managgresive is
+[22Jul2025 03:38:04.670] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_ravenous:the_ravenous_advancement' in progress file ./world/advancements/e00ce0e3-456a-356c-b267-084ac8f65390.json - it doesn't exist anymore?
+[22Jul2025 03:38:04.672] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_ravenous:the_ravenous_meet' in progress file ./world/advancements/e00ce0e3-456a-356c-b267-084ac8f65390.json - it doesn't exist anymore?
+[22Jul2025 03:38:04.673] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_ravenous:screech_scream' in progress file ./world/advancements/e00ce0e3-456a-356c-b267-084ac8f65390.json - it doesn't exist anymore?
+[22Jul2025 03:38:04.675] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/e00ce0e3-456a-356c-b267-084ac8f65390.json - it doesn't exist anymore?
+[22Jul2025 03:38:04.729] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hitmanms0715[/127.92.75.8:36431] logged in with entity id 65 at (-2311.778480817369, 68.0, -95.59793727651903)
+[22Jul2025 03:38:04.884] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hitmanms0715
+[22Jul2025 03:38:04.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 joined the game
+[22Jul2025 03:38:05.085] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
+[22Jul2025 03:38:05.741] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[22Jul2025 03:38:08.136] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[22Jul2025 03:38:26.751] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[22Jul2025 03:38:27.828] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[22Jul2025 03:38:48.178] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=250}
+[22Jul2025 03:38:48.865] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 03:38:49.711] [Server thread/WARN] [net.minecraft.world.level.block.entity.BlockEntity/]: Skipping BlockEntity with id man:cassette_recorder_block
+[22Jul2025 03:38:51.898] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8141, y=-56, z=737}
+[22Jul2025 03:38:52.586] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8152, y=-57, z=822}
+[22Jul2025 03:39:47.978] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 03:39:56.849] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 03:41:05.451] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what the_ravenous:the_ravenous is
+[22Jul2025 03:41:05.452] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what man:managgresive is
+[22Jul2025 03:41:05.452] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what the_ravenous:the_ravenous_6 is
+[22Jul2025 03:41:05.452] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what the_ravenous:mini_rav is
+[22Jul2025 03:41:05.453] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what the_ravenous:ravenous_trophy is
+[22Jul2025 03:41:05.453] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what man:cassette_1safetyinstructions is
+[22Jul2025 03:41:05.454] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what the_ravenous:ravenous_trophy is
+[22Jul2025 03:41:05.454] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what the_ravenous:mini_rav_spawn_egg is
+[22Jul2025 03:41:05.455] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./world/stats/8b041b34-dad3-3ec4-951f-a62c81da20ae.json: Don't know what man:cassette_recorder_block is
+[22Jul2025 03:41:05.466] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_ravenous:the_ravenous_advancement' in progress file ./world/advancements/8b041b34-dad3-3ec4-951f-a62c81da20ae.json - it doesn't exist anymore?
+[22Jul2025 03:41:05.467] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_ravenous:screech_scream' in progress file ./world/advancements/8b041b34-dad3-3ec4-951f-a62c81da20ae.json - it doesn't exist anymore?
+[22Jul2025 03:41:05.468] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_ravenous:the_ravenous_meet' in progress file ./world/advancements/8b041b34-dad3-3ec4-951f-a62c81da20ae.json - it doesn't exist anymore?
+[22Jul2025 03:41:05.471] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'the_ravenous:ravenous_egg_trophy' in progress file ./world/advancements/8b041b34-dad3-3ec4-951f-a62c81da20ae.json - it doesn't exist anymore?
+[22Jul2025 03:41:05.471] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'man:feelingwatched' in progress file ./world/advancements/8b041b34-dad3-3ec4-951f-a62c81da20ae.json - it doesn't exist anymore?
+[22Jul2025 03:41:05.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeusBread[/127.95.195.190:52349] logged in with entity id 831 at (-2311.94674492586, 67.0, -96.72834855340339)
+[22Jul2025 03:41:05.511] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeusBread
+[22Jul2025 03:41:05.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread joined the game
+[22Jul2025 03:41:05.662] [Server thread/INFO] [Jade/]: Syncing config to ZeusBread (8b041b34-dad3-3ec4-951f-a62c81da20ae)
+[22Jul2025 03:41:52.559] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 03:42:05.019] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.019] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.020] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.020] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.021] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.022] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.023] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.024] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Jul2025 03:42:05.025] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.026] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.029] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.032] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.032] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.033] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.033] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.038] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.040] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.043] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.044] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.045] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Jul2025 03:42:05.045] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.045] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.048] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Jul2025 03:42:05.049] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Jul2025 03:42:05.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CEnumParameter
+[22Jul2025 03:42:05.050] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.051] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.052] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.055] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.056] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.059] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:05.060] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[22Jul2025 03:42:07.416] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8154, y=-57, z=439}
+[22Jul2025 03:42:07.620] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 03:43:43.272] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7643, y=-56, z=10}
+[22Jul2025 03:43:43.275] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7638, y=-56, z=2}
+[22Jul2025 03:43:43.275] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7639, y=-56, z=10}
+[22Jul2025 03:43:43.275] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7640, y=-56, z=10}
+[22Jul2025 03:43:43.276] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7642, y=-56, z=10}
+[22Jul2025 03:43:43.276] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7641, y=-50, z=6}
+[22Jul2025 03:43:43.278] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7643, y=-49, z=7}
+[22Jul2025 03:43:43.280] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7643, y=-50, z=9}
+[22Jul2025 03:43:43.281] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7641, y=-49, z=7}
+[22Jul2025 03:43:50.988] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7741, y=-53, z=10}
+[22Jul2025 03:43:50.989] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7739, y=-53, z=10}
+[22Jul2025 03:43:53.833] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-58, z=-919}
+[22Jul2025 03:43:53.833] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-58, z=-920}
+[22Jul2025 03:43:53.834] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-59, z=-919}
+[22Jul2025 03:43:53.834] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2654, y=-59, z=-920}
+[22Jul2025 03:43:58.077] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2656, y=-58, z=-902}
+[22Jul2025 03:43:58.079] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2656, y=-58, z=-905}
+[22Jul2025 03:43:58.079] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-2656, y=-58, z=-903}
+[22Jul2025 03:44:03.869] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7645, y=-57, z=-178}
+[22Jul2025 03:44:18.124] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-7645, y=-57, z=-178}
+[22Jul2025 03:44:21.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread moved too quickly! -3.97593581102592,-1.127890238205481,9.46892590730863
+[22Jul2025 03:44:22.632] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/2923, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[22Jul2025 03:44:25.112] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/2987, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock

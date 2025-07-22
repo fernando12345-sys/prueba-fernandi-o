@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "the_ravenous:the_ravenous_advancement": {
-    "criteria": {
-      "the_ravenous_advancement_0": "2025-07-20 06:03:39 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-07-20 06:03:39 +0000"
@@ -823,18 +817,6 @@
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-07-20 06:55:27 +0000"
-    },
-    "done": true
-  },
-  "the_ravenous:the_ravenous_meet": {
-    "criteria": {
-      "the_ravenous_meet_0": "2025-07-20 06:57:05 +0000"
-    },
-    "done": true
-  },
-  "the_ravenous:screech_scream": {
-    "criteria": {
-      "screech_scream_0": "2025-07-20 06:57:10 +0000"
     },
     "done": true
   },
@@ -2080,21 +2062,21 @@
     },
     "done": true
   },
+  "yuushya:recipes/bismuth_crystal": {
+    "criteria": {
+      "has_cobblestone": "2025-07-22 02:02:35 +0000"
+    },
+    "done": true
+  },
+  "yuushya:recipes/pictor": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-22 02:02:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_helmet": "2025-07-22 02:39:26 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/decorations/light_blue_spruce_crib": {
-    "criteria": {
-      "has_spruce_planks": "2025-07-22 02:24:21 +0000"
     },
     "done": true
   },
@@ -2104,9 +2086,81 @@
     },
     "done": true
   },
-  "yuushya:recipes/bismuth_crystal": {
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
     "criteria": {
-      "has_cobblestone": "2025-07-22 02:02:35 +0000"
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-22 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-22 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_spruce_crib": {
+    "criteria": {
+      "has_spruce_planks": "2025-07-22 02:24:21 +0000"
     },
     "done": true
   },
@@ -2116,51 +2170,15 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2025-07-22 03:21:48 +0000"
-    },
-    "done": false
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-07-22 03:21:48 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-22 02:24:21 +0000"
     },
     "done": true
   },
-  "mca:hunted": {
-    "criteria": {
-      "iron": "2025-07-22 02:25:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/red_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/spyglass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
     },
     "done": true
   },
@@ -2182,27 +2200,9 @@
     },
     "done": true
   },
-  "majruszsdifficulty:game_stage_expert": {
-    "criteria": {
-      "is_triggered": "2025-07-22 03:21:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/pink_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
     },
     "done": true
   },
@@ -2218,27 +2218,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/cyan_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
-    "criteria": {
-      "has_moss_block": "2025-07-22 02:33:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
     },
     "done": true
   },
@@ -2254,33 +2236,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_button": {
     "criteria": {
       "has_planks": "2025-07-22 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-07-22 02:16:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/tinted_glass": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
     },
     "done": true
   },
@@ -2296,51 +2254,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/deepslate_brick_wall": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-07-22 03:21:48 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/light_gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-07-22 02:16:42 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/blue_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-07-22 02:39:33 +0000"
-    },
-    "done": true
-  },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-07-22 02:04:06 +0000"
     },
     "done": true
   },
@@ -2368,39 +2290,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
-    "criteria": {
-      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
-    },
-    "done": true
-  },
   "mca:recipes/decorations/gray_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
-    "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/moss_carpet": {
-    "criteria": {
-      "has_moss_block": "2025-07-22 02:33:30 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/amethyst_block": {
-    "criteria": {
-      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
     },
     "done": true
   },
@@ -2410,21 +2302,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+  "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+      "has_planks": "2025-07-22 02:24:21 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+  "mca:hunted": {
     "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+      "iron": "2025-07-22 02:25:36 +0000"
     },
     "done": true
   },
-  "yuushya:recipes/pictor": {
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
-      "has_iron_ingot": "2025-07-22 02:02:35 +0000"
+      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-07-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-07-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-07-22 02:33:30 +0000"
     },
     "done": true
   },
@@ -2434,27 +2362,75 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-07-22 02:39:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_stairs": {
-    "criteria": {
-      "has_planks": "2025-07-22 02:24:21 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
     "criteria": {
       "has_moss_block": "2025-07-22 02:33:30 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+      "iron_helmet": "2025-07-22 02:39:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-07-22 02:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-07-22 02:39:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-22 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-22 03:21:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-22 03:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-22 03:21:48 +0000"
     },
     "done": true
   },

@@ -11,12 +11,6 @@
     },
     "done": true
   },
-  "the_ravenous:the_ravenous_advancement": {
-    "criteria": {
-      "the_ravenous_advancement_0": "2025-07-20 06:13:02 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-07-20 06:13:02 +0000"
@@ -737,18 +731,6 @@
   "majruszsdifficulty:bleeding": {
     "criteria": {
       "bleeding_applied": "2025-07-20 06:55:23 +0000"
-    },
-    "done": true
-  },
-  "the_ravenous:screech_scream": {
-    "criteria": {
-      "screech_scream_0": "2025-07-20 06:57:02 +0000"
-    },
-    "done": true
-  },
-  "the_ravenous:the_ravenous_meet": {
-    "criteria": {
-      "the_ravenous_meet_0": "2025-07-20 06:57:06 +0000"
     },
     "done": true
   },
@@ -2012,12 +1994,6 @@
     },
     "done": true
   },
-  "the_ravenous:ravenous_egg_trophy": {
-    "criteria": {
-      "ravenous_egg_trophy_0": "2025-07-21 19:52:54 +0000"
-    },
-    "done": true
-  },
   "yuushya:recipes/bismuth_crystal": {
     "criteria": {
       "has_cobblestone": "2025-07-22 02:01:29 +0000"
@@ -2027,12 +2003,6 @@
   "yuushya:recipes/pictor": {
     "criteria": {
       "has_iron_ingot": "2025-07-22 02:01:29 +0000"
-    },
-    "done": true
-  },
-  "man:feelingwatched": {
-    "criteria": {
-      "feelingwatched_0": "2025-07-22 02:20:48 +0000"
     },
     "done": true
   },
@@ -2258,17 +2228,17 @@
     },
     "done": true
   },
+  "scguns:main/anthralite": {
+    "criteria": {
+      "anthralite_ingot": "2025-07-22 03:05:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-07-22 03:17:38 +0000"
     },
     "done": true
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:soul_sand_valley": "2025-07-22 03:21:46 +0000"
-    },
-    "done": false
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {
@@ -2282,17 +2252,17 @@
     },
     "done": true
   },
-  "scguns:main/anthralite": {
-    "criteria": {
-      "anthralite_ingot": "2025-07-22 03:05:09 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-22 03:21:43 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-22 03:21:46 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
