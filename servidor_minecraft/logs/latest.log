@@ -974,3 +974,14 @@ java.lang.IllegalStateException: not found
 [22Jul2025 04:24:20.983] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8526, y=-51, z=788}
 [22Jul2025 04:24:20.983] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8526, y=-51, z=789}
 [22Jul2025 04:24:20.984] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8526, y=-51, z=787}
+[22Jul2025 04:31:59.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Zombie
+[22Jul2025 04:32:13.436] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8562, y=-56, z=501}
+[22Jul2025 04:32:13.436] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8562, y=-56, z=502}
+[22Jul2025 04:32:13.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Zombie
+[22Jul2025 04:32:25.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Zombie
+[22Jul2025 04:32:33.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
+[22Jul2025 04:33:25.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[22Jul2025 04:35:23.004] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/17609, l='ServerLevel[world]', x=-2787.10, y=135.00, z=987.52] died: ZeusBread was shot by Skeleton
+[22Jul2025 04:35:46.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[22Jul2025 04:35:46.419] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/18174, l='ServerLevel[world]', x=-2785.93, y=134.00, z=987.49] died: ZeusBread was slain by ZeusBread
+[22Jul2025 04:35:57.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/18662, l='ServerLevel[world]', x=-2784.13, y=134.00, z=988.70] died: ZeusBread was slain by ZeusBread
