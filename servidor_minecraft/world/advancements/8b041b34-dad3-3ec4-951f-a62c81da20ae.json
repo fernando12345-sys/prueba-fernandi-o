@@ -20,11 +20,13 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:frozen_river": "2025-07-20 06:42:18 +0000",
+      "minecraft:cherry_grove": "2025-07-22 04:13:47 +0000",
       "minecraft:beach": "2025-07-20 06:13:03 +0000",
       "minecraft:river": "2025-07-20 06:35:59 +0000",
       "minecraft:snowy_plains": "2025-07-20 06:42:21 +0000",
       "minecraft:snowy_taiga": "2025-07-20 06:37:59 +0000",
       "minecraft:forest": "2025-07-20 06:21:41 +0000",
+      "minecraft:meadow": "2025-07-22 04:16:02 +0000",
       "minecraft:plains": "2025-07-20 06:13:20 +0000"
     },
     "done": false
@@ -413,6 +415,7 @@
       "cooked_mutton": "2025-07-20 06:26:46 +0000",
       "sweet_berries": "2025-07-21 04:22:21 +0000",
       "cooked_beef": "2025-07-20 08:14:47 +0000",
+      "apple": "2025-07-22 04:16:13 +0000",
       "potato": "2025-07-20 06:52:29 +0000",
       "bread": "2025-07-20 08:02:13 +0000",
       "rotten_flesh": "2025-07-21 04:10:38 +0000",
@@ -519,6 +522,7 @@
       "minecraft:creeper": "2025-07-21 03:49:22 +0000",
       "minecraft:husk": "2025-07-21 19:00:02 +0000",
       "minecraft:enderman": "2025-07-21 03:31:47 +0000",
+      "minecraft:stray": "2025-07-22 04:18:33 +0000",
       "minecraft:zombie": "2025-07-20 06:39:20 +0000",
       "minecraft:drowned": "2025-07-22 03:17:43 +0000"
     },
@@ -2264,6 +2268,18 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-07-22 04:17:04 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_mushroom_mines": {
+    "criteria": {
+      "location0": "2025-07-22 04:20:48 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-07-22 03:51:38 +0000"
@@ -2273,6 +2289,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-07-22 03:59:03 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_abandoned_temple": {
+    "criteria": {
+      "location0": "2025-07-22 04:13:51 +0000"
     },
     "done": true
   },
