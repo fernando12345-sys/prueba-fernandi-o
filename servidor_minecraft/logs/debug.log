@@ -3838,3 +3838,23 @@ java.lang.IllegalStateException: not found
 [22Jul2025 03:46:56.665] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
 [22Jul2025 03:46:56.665] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
 [22Jul2025 03:46:56.671] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[22Jul2025 03:48:03.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 03:48:03.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 03:50:08.993] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[22Jul2025 03:53:03.520] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 03:53:03.545] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 03:55:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
+[22Jul2025 03:56:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[22Jul2025 03:57:10.822] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Miljenka}[style={}] has been infected
+[22Jul2025 03:57:10.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miljenka'/2429, l='ServerLevel[world]', x=-2623.99, y=78.00, z=602.58] died, message: 'Miljenka was slain by Equestrian'
+[22Jul2025 03:57:27.974] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_1
+[22Jul2025 03:57:28.007] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_0
+[22Jul2025 03:57:28.026] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_0
+[22Jul2025 03:57:28.028] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/illusioner_normal_0
+[22Jul2025 03:57:28.029] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/skeleton_armored_1
+[22Jul2025 03:57:28.033] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_0
+[22Jul2025 03:57:28.042] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_entrance
+[22Jul2025 03:57:28.062] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_road_1
+[22Jul2025 03:57:28.063] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
+[22Jul2025 03:57:28.119] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
+[22Jul2025 03:57:28.120] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2

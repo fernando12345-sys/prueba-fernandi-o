@@ -623,6 +623,7 @@
       "cooked_mutton": "2025-07-20 06:34:05 +0000",
       "sweet_berries": "2025-07-21 03:56:28 +0000",
       "cooked_beef": "2025-07-22 03:21:24 +0000",
+      "apple": "2025-07-22 03:44:25 +0000",
       "bread": "2025-07-20 07:57:35 +0000",
       "cooked_chicken": "2025-07-21 03:47:23 +0000",
       "carrot": "2025-07-21 04:04:27 +0000"
@@ -2431,6 +2432,24 @@
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-07-22 03:21:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-07-22 03:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-07-22 03:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-07-22 03:47:41 +0000"
     },
     "done": true
   },

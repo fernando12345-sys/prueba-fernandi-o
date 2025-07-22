@@ -933,3 +933,7 @@ java.lang.IllegalStateException: not found
 [22Jul2025 03:44:21.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread moved too quickly! -3.97593581102592,-1.127890238205481,9.46892590730863
 [22Jul2025 03:44:22.632] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/2923, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
 [22Jul2025 03:44:25.112] [Server thread/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Chicken['Chicken'/2987, l='ServerLevel[world]', x=0.00, y=0.00, z=0.00] as it would cause deadlock
+[22Jul2025 03:55:18.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
+[22Jul2025 03:56:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[22Jul2025 03:57:10.822] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Miljenka}[style={}] has been infected
+[22Jul2025 03:57:10.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miljenka'/2429, l='ServerLevel[world]', x=-2623.99, y=78.00, z=602.58] died, message: 'Miljenka was slain by Equestrian'

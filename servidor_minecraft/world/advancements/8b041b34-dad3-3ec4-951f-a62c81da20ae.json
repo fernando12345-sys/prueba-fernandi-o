@@ -2264,5 +2264,17 @@
     },
     "done": false
   },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-07-22 03:51:38 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-07-22 03:51:38 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
