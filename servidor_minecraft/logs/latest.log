@@ -987,3 +987,7 @@ java.lang.IllegalStateException: not found
 [22Jul2025 04:35:57.956] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/18662, l='ServerLevel[world]', x=-2784.13, y=134.00, z=988.70] died: ZeusBread was slain by ZeusBread
 [22Jul2025 04:49:07.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Diamonds!]
 [22Jul2025 04:57:53.896] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Janus'/24874, l='ServerLevel[world]', x=-2916.60, y=150.00, z=959.93] died, message: 'Janus hit the ground too hard'
+[22Jul2025 05:08:12.325] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8573, y=-49, z=695}
+[22Jul2025 05:08:12.326] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8563, y=-49, z=695}
+[22Jul2025 05:08:12.327] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8567, y=-50, z=699}
+[22Jul2025 05:08:12.327] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8569, y=-44, z=695}
