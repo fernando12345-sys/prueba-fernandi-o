@@ -6070,3 +6070,27 @@ java.lang.IllegalStateException: not found
 [22Jul2025 20:17:53.302] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
 [22Jul2025 20:19:56.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jul2025 20:19:56.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 20:23:03.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_farm_2
+[22Jul2025 20:23:03.887] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_farm_1
+[22Jul2025 20:23:06.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:torch_tunnel/1x2/tunnel
+[22Jul2025 20:23:09.920] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_3
+[22Jul2025 20:24:56.698] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 20:24:56.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 20:25:27.445] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
+[22Jul2025 20:25:43.436] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[22Jul2025 20:26:10.777] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_0
+[22Jul2025 20:26:10.828] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_2
+[22Jul2025 20:26:10.848] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_3
+[22Jul2025 20:26:10.851] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_roots_0
+[22Jul2025 20:26:10.855] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_2
+[22Jul2025 20:26:10.856] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_0
+[22Jul2025 20:26:10.864] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_1
+[22Jul2025 20:26:10.872] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_0
+[22Jul2025 20:26:10.876] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[22Jul2025 20:26:10.878] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_3
+[22Jul2025 20:26:10.881] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_top_4
+[22Jul2025 20:26:10.882] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_2
+[22Jul2025 20:26:10.882] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_piglin_1
+[22Jul2025 20:28:11.611] [Worker-Main-116/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/desert/town_centers/desert_meeting_point_3
+[22Jul2025 20:29:56.725] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 20:29:56.771] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
