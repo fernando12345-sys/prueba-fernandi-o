@@ -4925,9 +4925,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
     "criteria": {
-      "shot_arrow": "2025-07-22 18:32:25 +0000"
+      "has_poppy": "2025-07-22 18:19:11 +0000"
     },
     "done": true
   },
@@ -4937,9 +4937,9 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_poppy": {
+  "minecraft:husbandry/plant_seed": {
     "criteria": {
-      "has_poppy": "2025-07-22 18:19:11 +0000"
+      "wheat": "2025-07-22 18:20:21 +0000"
     },
     "done": true
   },
@@ -4949,9 +4949,45 @@
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "wheat": "2025-07-22 18:20:21 +0000"
+      "shot_arrow": "2025-07-22 18:32:25 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:undead_army": {
+    "criteria": {
+      "army_defeated": "2025-07-22 18:37:48 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage_golden": {
+    "criteria": {
+      "has_bandage": "2025-07-22 18:39:28 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/stone_stepping_stones": {
+    "criteria": {
+      "has_stone": "2025-07-22 18:44:47 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/stone": {
+    "criteria": {
+      "has_wood": "2025-07-22 18:44:47 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/rock_path": {
+    "criteria": {
+      "has_stone": "2025-07-22 18:44:47 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/arrow_slits_gothic": {
+    "criteria": {
+      "has_wood": "2025-07-22 18:44:47 +0000"
     },
     "done": true
   },

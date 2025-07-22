@@ -826,3 +826,13 @@ java.lang.IllegalStateException: not found
 [22Jul2025 18:37:48.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Spooky Scary Army]
 [22Jul2025 18:37:54.714] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ana'/7455, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Ana hit the ground too hard'
 [22Jul2025 18:39:26.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Boneyard]
+[22Jul2025 18:41:37.465] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread lost connection: Disconnected
+[22Jul2025 18:41:37.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread left the game
+[22Jul2025 18:41:42.159] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeusBread[/127.95.195.190:38051] logged in with entity id 8069 at (-2914.6973021712206, 145.0, 965.867394967901)
+[22Jul2025 18:41:42.195] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeusBread
+[22Jul2025 18:41:42.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread joined the game
+[22Jul2025 18:41:42.365] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ZeusBread'
+[22Jul2025 18:41:42.365] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ZeusBread'
+[22Jul2025 18:41:42.366] [Server thread/INFO] [Jade/]: Syncing config to ZeusBread (8b041b34-dad3-3ec4-951f-a62c81da20ae)
+[22Jul2025 18:45:00.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[22Jul2025 18:45:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
