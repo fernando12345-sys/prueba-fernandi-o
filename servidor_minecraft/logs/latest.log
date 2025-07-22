@@ -942,3 +942,8 @@ java.lang.IllegalStateException: not found
 [22Jul2025 04:03:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was blown up by Creeper
 [22Jul2025 04:03:32.332] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_ravenous:the_ravenous
 [22Jul2025 04:03:47.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[22Jul2025 04:11:36.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was doomed to fall by Vex
+[22Jul2025 04:11:52.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[22Jul2025 04:16:25.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8043ms or 160 ticks behind
+[22Jul2025 04:16:25.769] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread moved too quickly! 0.5786293954552093,-0.5,-10.162680280796621
+[22Jul2025 04:17:36.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Diamonds!]
