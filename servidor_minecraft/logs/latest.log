@@ -937,3 +937,8 @@ java.lang.IllegalStateException: not found
 [22Jul2025 03:56:54.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
 [22Jul2025 03:57:10.822] [Server thread/INFO] [forge.net.mca.MCA/]: literal{Miljenka}[style={}] has been infected
 [22Jul2025 03:57:10.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Miljenka'/2429, l='ServerLevel[world]', x=-2623.99, y=78.00, z=602.58] died, message: 'Miljenka was slain by Equestrian'
+[22Jul2025 03:57:45.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Best Friends Forever]
+[22Jul2025 03:59:03.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Best Friends Forever]
+[22Jul2025 04:03:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was blown up by Creeper
+[22Jul2025 04:03:32.332] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_ravenous:the_ravenous
+[22Jul2025 04:03:47.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]

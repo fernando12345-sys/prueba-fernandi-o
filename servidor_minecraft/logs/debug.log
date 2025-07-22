@@ -3858,3 +3858,27 @@ java.lang.IllegalStateException: not found
 [22Jul2025 03:57:28.063] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_1
 [22Jul2025 03:57:28.119] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_0
 [22Jul2025 03:57:28.120] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_deco_2
+[22Jul2025 03:57:45.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Best Friends Forever]
+[22Jul2025 03:58:03.654] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 03:58:03.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 03:59:03.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Best Friends Forever]
+[22Jul2025 03:59:33.529] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_0_main
+[22Jul2025 03:59:33.549] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[22Jul2025 04:02:26.268] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/savanna/town_centers/savanna_meeting_point_1
+[22Jul2025 04:03:03.537] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 04:03:03.574] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 04:03:23.473] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_3
+[22Jul2025 04:03:23.480] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_1
+[22Jul2025 04:03:23.481] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_0
+[22Jul2025 04:03:23.486] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_top_4 is being run through DFU (hash 9a325c1c61a4e7574103858486b5a9c17628c6a645d8ca996252f4c80c38ee3d), this will cause launch time delays
+[22Jul2025 04:03:23.845] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_3
+[22Jul2025 04:03:23.871] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_4
+[22Jul2025 04:03:23.874] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_spawner_2
+[22Jul2025 04:03:23.896] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_0
+[22Jul2025 04:03:23.998] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_1
+[22Jul2025 04:03:24.032] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_middle_2
+[22Jul2025 04:03:26.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was blown up by Creeper
+[22Jul2025 04:03:31.766] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753157011721
+[22Jul2025 04:03:32.332] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id the_ravenous:the_ravenous
+[22Jul2025 04:03:47.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[22Jul2025 04:04:19.617] [Worker-Main-1/DEBUG] [ModernFix/]: Structure minecraft:village/snowy/town_centers/snowy_meeting_point_2 is being run through DFU (hash a733c783dd55c7674866413bc14517450679ab1ca9eb13e6c2a61b62b3f124aa), this will cause launch time delays
