@@ -4342,3 +4342,27 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jul2025 22:25:58.862] [Server thread/DEBUG] [com.cerbon.better_totem_of_undying.util.BTUConstants/]: Loaded com.cerbon.better_totem_of_undying.forge.platform.ForgeCharmHelper@23a518c2 for service interface com.cerbon.better_totem_of_undying.platform.services.ICharmHelper
 [22Jul2025 22:29:40.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Jul2025 22:29:40.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 22:33:17.054] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread lost connection: Disconnected
+[22Jul2025 22:33:17.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread left the game
+[22Jul2025 22:33:31.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22Jul2025 22:33:32.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Jul2025 22:33:32.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Jul2025 22:33:32.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Jul2025 22:33:32.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Jul2025 22:33:34.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Jul2025 22:33:34.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Jul2025 22:33:34.489] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 22:33:34.534] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 22:33:34.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Jul2025 22:33:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Jul2025 22:33:34.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Jul2025 22:33:34.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22Jul2025 22:33:34.754] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22Jul2025 22:33:34.755] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/prueba-fernandi-o/servidor_minecraft/config/refurbished_furniture.server.toml
+[22Jul2025 22:33:34.755] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[22Jul2025 22:33:34.758] [Server thread/DEBUG] [Framework/]: Stopped watching config: /workspaces/prueba-fernandi-o/servidor_minecraft/config/backpacked.server.toml
+[22Jul2025 22:33:34.758] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[22Jul2025 22:33:34.758] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[22Jul2025 22:33:34.759] [Server thread/DEBUG] [Framework/]: Stopping config watcher
+[22Jul2025 22:33:34.759] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[22Jul2025 22:33:34.767] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
