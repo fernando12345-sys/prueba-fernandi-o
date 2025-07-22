@@ -1137,3 +1137,9 @@ java.lang.IllegalStateException: not found
 [22Jul2025 06:06:51.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2921, y=148, z=1001} BlockPos{x=-2921, y=146, z=1002}
 [22Jul2025 06:08:00.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
 [22Jul2025 06:08:37.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[22Jul2025 06:09:32.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
+[22Jul2025 06:09:48.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[22Jul2025 06:11:27.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was shot by hitmanms0715
+[22Jul2025 06:14:14.899] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[22Jul2025 06:14:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[22Jul2025 06:16:02.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
