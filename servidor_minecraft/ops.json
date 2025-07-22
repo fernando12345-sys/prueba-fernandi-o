@@ -4,5 +4,11 @@
     "name": "ZeusBread",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "feffc301-0cc5-3cc5-97b6-d18f3d781ad6",
+    "name": "hitmanms",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

@@ -12802,3 +12802,30 @@ java.lang.IllegalStateException: not found
 [22Jul2025 02:20:00.283] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
 [22Jul2025 02:20:09.875] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
 [22Jul2025 02:20:10.487] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8152, y=-57, z=822}
+[22Jul2025 02:20:48.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has reached the goal [Feeling Watched]
+[22Jul2025 02:23:13.557] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Ants'/19782, l='ServerLevel[world]', x=-2043.93, y=66.94, z=-778.34] died, message: 'Ants was slain by hitmanms0715'
+[22Jul2025 02:23:13.558] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Ants'/19782, l='ServerLevel[world]', x=-2043.93, y=66.94, z=-778.34] died: Ants was slain by hitmanms0715
+[22Jul2025 02:24:25.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Maila'/21720, l='ServerLevel[world]', x=-2117.27, y=66.12, z=-772.84] died, message: 'Maila was slain by The Ravenous (phase 0)'
+[22Jul2025 02:24:25.507] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Maila'/21720, l='ServerLevel[world]', x=-2117.27, y=66.12, z=-772.84] died: Maila was slain by The Ravenous (phase 0)
+[22Jul2025 02:24:29.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was doomed to fall by The Ravenous (phase 0)
+[22Jul2025 02:24:57.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made hitmanms a server operator
+[22Jul2025 02:25:36.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has completed the challenge [Hunted]
+[22Jul2025 02:27:09.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[22Jul2025 02:27:13.849] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mihkel'/19631, l='ServerLevel[world]', x=-2027.30, y=69.00, z=-785.44] died, message: 'Mihkel hit the ground too hard'
+[22Jul2025 02:27:13.849] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mihkel'/19631, l='ServerLevel[world]', x=-2027.30, y=69.00, z=-785.44] died: Mihkel was doomed to fall by The Ravenous (phase 0)
+[22Jul2025 02:27:19.307] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Henrik'/21176, l='ServerLevel[world]', x=-2036.71, y=69.00, z=-788.29] died, message: 'Henrik was slain by The Ravenous (phase 0)'
+[22Jul2025 02:27:19.307] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Henrik'/21176, l='ServerLevel[world]', x=-2036.71, y=69.00, z=-788.29] died: Henrik was slain by The Ravenous (phase 0)
+[22Jul2025 02:27:19.308] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mari'/19627, l='ServerLevel[world]', x=-2027.81, y=70.00, z=-785.08] died, message: 'Mari (Staying) was slain by The Ravenous (phase 0)'
+[22Jul2025 02:27:19.308] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Mari'/19627, l='ServerLevel[world]', x=-2027.81, y=70.00, z=-785.08] died: Mari (Staying) was slain by The Ravenous (phase 0)
+[22Jul2025 02:27:20.359] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Andres'/19628, l='ServerLevel[world]', x=-2026.51, y=69.00, z=-797.02] died, message: 'Andres hit the ground too hard'
+[22Jul2025 02:27:20.359] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Andres'/19628, l='ServerLevel[world]', x=-2026.51, y=69.00, z=-797.02] died: Andres hit the ground too hard
+[22Jul2025 02:27:20.361] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Aleksandra'/19778, l='ServerLevel[world]', x=-2041.53, y=69.00, z=-795.01] died, message: 'Aleksandra hit the ground too hard'
+[22Jul2025 02:27:20.362] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Aleksandra'/19778, l='ServerLevel[world]', x=-2041.53, y=69.00, z=-795.01] died: Aleksandra hit the ground too hard
+[22Jul2025 02:28:09.352] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 02:28:58.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported ZeusBread to hitmanms0715]
+[22Jul2025 02:29:49.999] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3154ms or 63 ticks behind
+[22Jul2025 02:30:09.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[22Jul2025 02:30:11.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 fell from a high place
+[22Jul2025 02:30:21.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[22Jul2025 02:30:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[22Jul2025 02:30:41.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 fell from a high place
