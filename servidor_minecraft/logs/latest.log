@@ -863,3 +863,27 @@ java.lang.IllegalStateException: not found
 [22Jul2025 19:08:53.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread moved too quickly! -5.7647361553795236,0.395575898673286,8.729561219508469
 [22Jul2025 19:08:53.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
 [22Jul2025 19:08:57.751] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 19:10:51.819] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread lost connection: Disconnected
+[22Jul2025 19:10:51.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread left the game
+[22Jul2025 19:11:09.032] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeusBread[/127.95.195.190:51965] logged in with entity id 17356 at (-3196.034819996111, 83.0, 1923.6784373258847)
+[22Jul2025 19:11:09.066] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeusBread
+[22Jul2025 19:11:09.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread joined the game
+[22Jul2025 19:11:09.117] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ZeusBread'
+[22Jul2025 19:11:09.120] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ZeusBread'
+[22Jul2025 19:11:09.120] [Server thread/INFO] [Jade/]: Syncing config to ZeusBread (8b041b34-dad3-3ec4-951f-a62c81da20ae)
+[22Jul2025 19:11:13.923] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Karina'/17496, l='ServerLevel[world]', x=-3275.90, y=76.00, z=1980.80] died, message: 'Karina was slain by Equestrian'
+[22Jul2025 19:11:13.927] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Karina'/17496, l='ServerLevel[world]', x=-3275.90, y=76.00, z=1980.80] died: Karina was slain by Equestrian
+[22Jul2025 19:12:51.938] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:14:58.483] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 19:15:07.913] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 19:15:28.854] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:15:28.881] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:15:28.950] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 19:16:01.199] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 19:18:31.650] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=250}
+[22Jul2025 19:18:34.035] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 19:19:34.469] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=729}
+[22Jul2025 19:19:34.469] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=734}
+[22Jul2025 19:19:34.469] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8100, y=-57, z=731}
+[22Jul2025 19:19:34.469] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=732}
+[22Jul2025 19:19:34.470] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-57, z=729}
