@@ -628,6 +628,7 @@
       "cooked_porkchop": "2025-07-20 08:06:36 +0000",
       "cooked_mutton": "2025-07-20 06:34:05 +0000",
       "sweet_berries": "2025-07-21 03:56:28 +0000",
+      "cooked_beef": "2025-07-22 03:21:24 +0000",
       "bread": "2025-07-20 07:57:35 +0000",
       "cooked_chicken": "2025-07-21 03:47:23 +0000",
       "carrot": "2025-07-21 04:04:27 +0000"
@@ -2115,6 +2116,18 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-22 03:21:48 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-22 03:21:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_sign": {
     "criteria": {
       "has_planks": "2025-07-22 02:24:21 +0000"
@@ -2166,6 +2179,12 @@
   "mca:recipes/decorations/purple_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-22 03:21:43 +0000"
     },
     "done": true
   },
@@ -2280,6 +2299,12 @@
   "minecraft:recipes/decorations/deepslate_brick_wall": {
     "criteria": {
       "has_deepslate_bricks": "2025-07-22 02:09:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-22 03:21:48 +0000"
     },
     "done": true
   },

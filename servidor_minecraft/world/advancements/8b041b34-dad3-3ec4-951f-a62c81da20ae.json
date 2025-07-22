@@ -2264,9 +2264,33 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:soul_sand_valley": "2025-07-22 03:21:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-07-22 03:21:43 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:game_stage_expert": {
+    "criteria": {
+      "is_triggered": "2025-07-22 03:21:43 +0000"
+    },
+    "done": true
+  },
   "scguns:main/anthralite": {
     "criteria": {
       "anthralite_ingot": "2025-07-22 03:05:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-07-22 03:21:43 +0000"
     },
     "done": true
   },
