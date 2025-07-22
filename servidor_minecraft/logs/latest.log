@@ -896,3 +896,8 @@ java.lang.IllegalStateException: not found
 [22Jul2025 19:29:21.736] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ZeusBread'
 [22Jul2025 19:29:21.736] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ZeusBread'
 [22Jul2025 19:29:21.737] [Server thread/INFO] [Jade/]: Syncing config to ZeusBread (8b041b34-dad3-3ec4-951f-a62c81da20ae)
+[22Jul2025 19:58:38.822] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:58:43.947] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8102, y=-53, z=676}
+[22Jul2025 19:59:01.652] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8110, y=-57, z=687}
+[22Jul2025 20:00:20.537] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 20:00:33.870] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
