@@ -836,3 +836,11 @@ java.lang.IllegalStateException: not found
 [22Jul2025 18:41:42.366] [Server thread/INFO] [Jade/]: Syncing config to ZeusBread (8b041b34-dad3-3ec4-951f-a62c81da20ae)
 [22Jul2025 18:45:00.012] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
 [22Jul2025 18:45:00.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[22Jul2025 18:55:47.088] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 18:56:39.603] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 18:57:40.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Zombie
+[22Jul2025 18:58:43.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Zombie
+[22Jul2025 18:58:52.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Zombie
+[22Jul2025 18:59:10.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13772, l='ServerLevel[world]', x=-2893.10, y=123.00, z=1363.79] died: ZeusBread was slain by ZeusBread
+[22Jul2025 18:59:11.372] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13774, l='ServerLevel[world]', x=-2894.85, y=123.00, z=1361.91] died: ZeusBread was slain by ZeusBread
+[22Jul2025 18:59:15.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Inder'/13817, l='ServerLevel[world]', x=-2895.49, y=123.00, z=1358.03] died: Inder was slain by ZeusBread
