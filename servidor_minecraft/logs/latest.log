@@ -991,3 +991,12 @@ java.lang.IllegalStateException: not found
 [22Jul2025 05:08:12.326] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8563, y=-49, z=695}
 [22Jul2025 05:08:12.327] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8567, y=-50, z=699}
 [22Jul2025 05:08:12.327] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8569, y=-44, z=695}
+[22Jul2025 05:08:44.413] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8476, y=-56, z=356}
+[22Jul2025 05:08:44.413] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8469, y=-56, z=356}
+[22Jul2025 05:08:44.414] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8471, y=-56, z=356}
+[22Jul2025 05:08:44.414] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8474, y=-56, z=356}
+[22Jul2025 05:09:03.370] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8570, y=-56, z=747}
+[22Jul2025 05:09:05.005] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8570, y=-56, z=410}
+[22Jul2025 05:09:05.005] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8569, y=-56, z=414}
+[22Jul2025 05:13:13.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was doomed to fall by Tank
+[22Jul2025 05:13:50.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [What Was That!?]
