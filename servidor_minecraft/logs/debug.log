@@ -5522,3 +5522,37 @@ java.lang.IllegalStateException: not found
 [22Jul2025 18:59:10.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13772, l='ServerLevel[world]', x=-2893.10, y=123.00, z=1363.79] died: ZeusBread was slain by ZeusBread
 [22Jul2025 18:59:11.372] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13774, l='ServerLevel[world]', x=-2894.85, y=123.00, z=1361.91] died: ZeusBread was slain by ZeusBread
 [22Jul2025 18:59:15.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Inder'/13817, l='ServerLevel[world]', x=-2895.49, y=123.00, z=1358.03] died: Inder was slain by ZeusBread
+[22Jul2025 18:59:54.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 18:59:54.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 19:04:08.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13820, l='ServerLevel[world]', x=-2902.26, y=121.00, z=1369.74] died: ZeusBread was slain by ZeusBread
+[22Jul2025 19:04:54.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 19:04:54.410] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jul2025 19:07:07.115] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[22Jul2025 19:07:07.208] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_0
+[22Jul2025 19:07:07.234] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_1 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[22Jul2025 19:07:08.510] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_juggernaut_0 is being run through DFU (hash d67860fa6b5fe80aa150cb9dc672a43b2c2eb9955b89cc04679792b2d3145ca4), this will cause launch time delays
+[22Jul2025 19:07:08.566] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_mounted_0 is being run through DFU (hash e2ac74f2492c7f2ca3db9a33497751cab9c13ed04d32afc18dc39b3619361e78), this will cause launch time delays
+[22Jul2025 19:07:08.658] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2 is being run through DFU (hash 40b15fe9c80a15adfc4f38946177cfa77d41454b5c5095aa4b33741140c3987c), this will cause launch time delays
+[22Jul2025 19:07:09.484] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_3 is being run through DFU (hash 32bd1ae2d23fa71616e0c378b422d1e9e13fbf31551051d3f771e728a4fb5d6c), this will cause launch time delays
+[22Jul2025 19:07:09.799] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1 is being run through DFU (hash b8b12295d93b5da172231e437ecb527d00901657537eae5a5a30d6f971865780), this will cause launch time delays
+[22Jul2025 19:07:10.061] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:heavenly_conqueror/heavenly_conqueror_phantom_rider_0 is being run through DFU (hash ca9e0e2b70f65a0980baf59dd19382a9724c1e1907fbe9eb6c9609ec1393c020), this will cause launch time delays
+[22Jul2025 19:07:34.633] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-47, z=776}
+[22Jul2025 19:07:35.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:07:43.303] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:07:48.186] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 19:07:49.704] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-51, z=292}
+[22Jul2025 19:07:49.704] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8147, y=-51, z=292}
+[22Jul2025 19:07:50.771] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:07:52.583] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-51, z=292}
+[22Jul2025 19:07:52.583] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8147, y=-51, z=292}
+[22Jul2025 19:08:33.305] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 19:08:33.373] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 19:08:33.595] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 19:08:36.779] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-47, z=776}
+[22Jul2025 19:08:40.437] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:08:53.490] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-47, z=776}
+[22Jul2025 19:08:53.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread moved too quickly! -5.7647361553795236,0.395575898673286,8.729561219508469
+[22Jul2025 19:08:53.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[22Jul2025 19:08:57.751] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 19:09:56.709] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jul2025 19:09:56.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -844,3 +844,22 @@ java.lang.IllegalStateException: not found
 [22Jul2025 18:59:10.778] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13772, l='ServerLevel[world]', x=-2893.10, y=123.00, z=1363.79] died: ZeusBread was slain by ZeusBread
 [22Jul2025 18:59:11.372] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13774, l='ServerLevel[world]', x=-2894.85, y=123.00, z=1361.91] died: ZeusBread was slain by ZeusBread
 [22Jul2025 18:59:15.175] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Inder'/13817, l='ServerLevel[world]', x=-2895.49, y=123.00, z=1358.03] died: Inder was slain by ZeusBread
+[22Jul2025 19:04:08.669] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/13820, l='ServerLevel[world]', x=-2902.26, y=121.00, z=1369.74] died: ZeusBread was slain by ZeusBread
+[22Jul2025 19:07:34.633] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-47, z=776}
+[22Jul2025 19:07:35.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:07:43.303] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:07:48.186] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 19:07:49.704] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-51, z=292}
+[22Jul2025 19:07:49.704] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8147, y=-51, z=292}
+[22Jul2025 19:07:50.771] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:07:52.583] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-51, z=292}
+[22Jul2025 19:07:52.583] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8147, y=-51, z=292}
+[22Jul2025 19:08:33.305] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
+[22Jul2025 19:08:33.373] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 19:08:33.595] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 19:08:36.779] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-47, z=776}
+[22Jul2025 19:08:40.437] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[22Jul2025 19:08:53.490] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8148, y=-47, z=776}
+[22Jul2025 19:08:53.772] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread moved too quickly! -5.7647361553795236,0.395575898673286,8.729561219508469
+[22Jul2025 19:08:53.777] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2375ms or 47 ticks behind
+[22Jul2025 19:08:57.751] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8158, y=-57, z=532}
