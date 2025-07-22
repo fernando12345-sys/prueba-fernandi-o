@@ -811,6 +811,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-20 07:26:39 +0000",
+      "minecraft:vindicator": "2025-07-22 03:17:13 +0000",
       "minecraft:spider": "2025-07-20 07:36:28 +0000",
       "minecraft:creeper": "2025-07-21 19:43:43 +0000",
       "minecraft:husk": "2025-07-21 19:21:27 +0000",
@@ -2144,6 +2145,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_spruce_crib": {
     "criteria": {
       "has_spruce_planks": "2025-07-22 02:24:21 +0000"
@@ -2243,6 +2250,18 @@
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-07-22 02:16:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
     },
     "done": true
   },
@@ -2351,6 +2370,12 @@
   "minecraft:recipes/decorations/moss_carpet": {
     "criteria": {
       "has_moss_block": "2025-07-22 02:33:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-22 03:11:42 +0000"
     },
     "done": true
   },
