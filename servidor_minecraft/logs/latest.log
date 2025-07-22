@@ -12790,3 +12790,15 @@ java.lang.IllegalStateException: not found
 [22Jul2025 02:06:34.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZeusBread) moved too quickly! 3.4667414245213877,0.0,10.177529591951384
 [22Jul2025 02:06:34.707] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of ZeusBread) moved too quickly! 3.616997432859989,0.0,10.547750908083344
 [22Jul2025 02:07:40.976] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Signe'/1666, l='ServerLevel[world]', x=-2109.42, y=67.00, z=-764.53] died, message: 'Signe was slain by hitmanms0715'
+[22Jul2025 02:09:50.571] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8103, y=-53, z=537}
+[22Jul2025 02:09:51.394] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 02:09:58.796] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 02:13:00.839] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Elena'/1567, l='ServerLevel[world]', x=-2040.29, y=67.00, z=-775.98] died, message: 'Elena (Staying) was executed by hitmanms0715'
+[22Jul2025 02:15:39.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by Man From The Fog
+[22Jul2025 02:17:18.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported ZeusBread to hitmanms0715]
+[22Jul2025 02:18:13.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported 2 entities to hitmanms0715]
+[22Jul2025 02:18:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported ZeusBread to ZeusBread]
+[22Jul2025 02:19:53.737] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 02:20:00.283] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 02:20:09.875] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8104, y=-52, z=629}
+[22Jul2025 02:20:10.487] [Worker-Main-19/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8152, y=-57, z=822}
