@@ -786,3 +786,28 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jul2025 19:50:26.575] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [24Jul2025 19:58:29.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jerneja'/11860, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Jerneja hit the ground too hard'
 [24Jul2025 20:06:44.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5563ms or 111 ticks behind
+[24Jul2025 20:14:53.830] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8139, y=-44, z=692}
+[24Jul2025 20:14:56.617] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8156, y=-41, z=690}
+[24Jul2025 20:14:56.628] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8109, y=-52, z=435}
+[24Jul2025 20:15:09.129] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-8154, y=-57, z=439}
+[24Jul2025 20:17:03.779] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[24Jul2025 20:17:04.024] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=80, y=-56, z=106}
+[24Jul2025 20:17:04.024] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=107}
+[24Jul2025 20:17:04.024] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=85, y=-56, z=112}
+[24Jul2025 20:17:04.025] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=89, y=-56, z=115}
+[24Jul2025 20:17:04.025] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=90, y=-56, z=118}
+[24Jul2025 20:17:47.647] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Assen'/16533, l='ServerLevel[world]', x=-2044.29, y=78.00, z=128.03] died, message: 'Assen was slain by Slugger'
+[24Jul2025 20:18:11.709] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[24Jul2025 20:18:23.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Zombie
+[24Jul2025 20:18:46.643] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['ZeusBread'/18421, l='ServerLevel[world]', x=-2048.43, y=79.00, z=135.58] died: ZeusBread was slain by ZeusBread
+[24Jul2025 20:18:55.615] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=61, y=-56, z=87}
+[24Jul2025 20:19:13.386] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity ZombieVillagerEntityMCA['Aivar'/18509, l='ServerLevel[world]', x=-2080.35, y=77.94, z=94.35] died: Aivar burned to death
+[24Jul2025 20:19:15.474] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=79, y=-56, z=103}
+[24Jul2025 20:19:15.676] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=63, y=-56, z=89}
+[24Jul2025 20:19:15.677] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=64, y=-56, z=90}
+[24Jul2025 20:19:15.677] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=66, y=-56, z=92}
+[24Jul2025 20:19:15.677] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=68, y=-56, z=94}
+[24Jul2025 20:19:15.678] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=69, y=-56, z=98}
+[24Jul2025 20:19:15.678] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=70, y=-56, z=101}
+[24Jul2025 20:19:15.678] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=73, y=-56, z=102}
+[24Jul2025 20:19:15.678] [Worker-Main-8/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=77, y=-56, z=101}

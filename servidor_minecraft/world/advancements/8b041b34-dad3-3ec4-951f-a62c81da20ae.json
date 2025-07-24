@@ -4248,9 +4248,10 @@
   },
   "incendium:technical/using/shield": {
     "criteria": {
+      "requirement": "2025-07-24 20:18:14 +0000",
       "log_spam_fixer": "2025-07-22 17:17:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "incendium:technical/scroll_of_returning": {
     "criteria": {
