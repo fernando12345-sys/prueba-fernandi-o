@@ -524,6 +524,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-07-22 03:17:17 +0000",
+      "minecraft:blaze": "2025-07-24 17:56:55 +0000",
       "minecraft:skeleton": "2025-07-20 07:59:44 +0000",
       "minecraft:hoglin": "2025-07-24 17:56:03 +0000",
       "minecraft:vindicator": "2025-07-22 03:16:56 +0000",
@@ -6098,9 +6099,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_stamping_press": {
     "criteria": {
       "stamping_press": "2025-07-24 17:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_fortress": "2025-07-24 17:57:20 +0000"
     },
     "done": true
   },
@@ -6122,9 +6147,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-24 16:36:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
     },
     "done": true
   },
@@ -6140,6 +6183,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2025-07-24 17:47:05 +0000"
@@ -6152,6 +6201,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_gun_parts_mold": {
     "criteria": {
       "gun_parts_mold": "2025-07-24 17:33:29 +0000"
@@ -6161,6 +6216,12 @@
   "scguns:main/craft_blank_mold": {
     "criteria": {
       "blank_mold": "2025-07-24 17:33:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-07-24 17:57:19 +0000"
     },
     "done": true
   },
