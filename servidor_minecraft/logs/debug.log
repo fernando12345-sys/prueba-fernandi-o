@@ -4503,3 +4503,58 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jul2025 19:58:09.078] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jul2025 19:58:09.129] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Jul2025 19:58:29.391] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Jerneja'/11860, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Jerneja hit the ground too hard'
+[24Jul2025 20:03:09.052] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 20:03:09.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 20:04:51.505] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/oak/logless_tree1
+[24Jul2025 20:04:51.522] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/spruce/logless_tree1
+[24Jul2025 20:05:02.101] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree2
+[24Jul2025 20:05:02.125] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/birch/logless_tree1
+[24Jul2025 20:05:02.324] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[24Jul2025 20:05:02.348] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[24Jul2025 20:05:02.364] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[24Jul2025 20:05:02.383] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend2
+[24Jul2025 20:05:02.439] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[24Jul2025 20:05:02.530] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[24Jul2025 20:05:02.533] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[24Jul2025 20:05:02.535] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[24Jul2025 20:05:02.536] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[24Jul2025 20:05:02.540] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[24Jul2025 20:05:02.540] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[24Jul2025 20:05:02.547] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/intersection_big
+[24Jul2025 20:05:05.862] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_base_0
+[24Jul2025 20:05:19.662] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[24Jul2025 20:05:20.833] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of watching:logless_tree/acacia/logless_tree1
+[24Jul2025 20:06:09.486] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[24Jul2025 20:06:09.525] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[24Jul2025 20:06:09.586] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[24Jul2025 20:06:09.628] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[24Jul2025 20:06:09.776] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_1
+[24Jul2025 20:06:09.808] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[24Jul2025 20:06:09.867] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[24Jul2025 20:06:09.916] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[24Jul2025 20:06:09.967] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_1
+[24Jul2025 20:06:10.012] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_2
+[24Jul2025 20:06:10.067] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[24Jul2025 20:06:10.078] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:small_blimp/small_blimp_ladders_0
+[24Jul2025 20:06:10.099] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[24Jul2025 20:06:10.114] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_house/mushroom_house_bottom_1
+[24Jul2025 20:06:10.131] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:undead_pirate_ship/undead_pirate_ship_part_0
+[24Jul2025 20:06:10.158] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_1
+[24Jul2025 20:06:10.174] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[24Jul2025 20:06:10.239] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[24Jul2025 20:06:10.280] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_1
+[24Jul2025 20:06:10.294] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[24Jul2025 20:06:13.180] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[24Jul2025 20:06:14.149] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[24Jul2025 20:06:14.197] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_0
+[24Jul2025 20:06:14.226] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[24Jul2025 20:06:44.594] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5563ms or 111 ticks behind
+[24Jul2025 20:07:50.047] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/town_centers/taiga_meeting_point_1
+[24Jul2025 20:07:50.075] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_weaponsmith_2
+[24Jul2025 20:07:50.082] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_1
+[24Jul2025 20:07:50.083] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_small_farm_1
+[24Jul2025 20:07:50.092] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/taiga/houses/taiga_large_farm_2
+[24Jul2025 20:07:50.096] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_03
+[24Jul2025 20:08:14.614] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 20:08:14.666] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 20:11:31.411] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
