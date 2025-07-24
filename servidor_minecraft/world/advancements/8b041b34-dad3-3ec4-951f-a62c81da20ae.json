@@ -525,6 +525,7 @@
     "criteria": {
       "minecraft:pillager": "2025-07-22 03:17:17 +0000",
       "minecraft:skeleton": "2025-07-20 07:59:44 +0000",
+      "minecraft:hoglin": "2025-07-24 17:56:03 +0000",
       "minecraft:vindicator": "2025-07-22 03:16:56 +0000",
       "minecraft:spider": "2025-07-20 07:57:41 +0000",
       "minecraft:creeper": "2025-07-21 03:49:22 +0000",
@@ -2275,7 +2276,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-07-22 03:21:46 +0000"
+      "minecraft:crimson_forest": "2025-07-24 17:55:13 +0000",
+      "minecraft:soul_sand_valley": "2025-07-22 03:21:46 +0000",
+      "minecraft:nether_wastes": "2025-07-24 17:46:44 +0000"
     },
     "done": false
   },
@@ -6053,9 +6056,69 @@
     },
     "done": true
   },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-24 17:46:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 17:48:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-07-24 17:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-07-24 17:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-07-24 17:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-07-24 17:47:05 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/quartz": {
+    "criteria": {
+      "has_wood": "2025-07-24 17:47:05 +0000"
+    },
+    "done": true
+  },
   "scguns:main/craft_stamping_press": {
     "criteria": {
       "stamping_press": "2025-07-24 17:26:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-24 17:47:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-07-24 17:56:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-07-24 17:48:44 +0000"
     },
     "done": true
   },
@@ -6068,6 +6131,24 @@
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-07-24 16:25:25 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/vehement_coal": {
+    "criteria": {
+      "vehement_coal": "2025-07-24 17:48:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-07-24 17:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-07-24 17:47:05 +0000"
     },
     "done": true
   },

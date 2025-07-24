@@ -847,3 +847,20 @@ java.lang.IllegalStateException: not found
 [24Jul2025 17:46:33.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Incendium]
 [24Jul2025 17:46:36.544] [Worker-Main-10/INFO] [citadel/]: vanilla surface rule behavior unchanged
 [24Jul2025 17:46:44.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10986ms or 219 ticks behind
+[24Jul2025 17:46:57.453] [Worker-Main-10/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20115, l='ServerLevel[world]', x=-292.00, y=31.00, z=210.00] as it would cause deadlock
+[24Jul2025 17:47:00.252] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[24Jul2025 17:47:09.060] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20205, l='ServerLevel[world]', x=-501.00, y=31.00, z=157.00] as it would cause deadlock
+[24Jul2025 17:47:25.575] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20304, l='ServerLevel[world]', x=-553.00, y=31.00, z=102.00] as it would cause deadlock
+[24Jul2025 17:47:28.200] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id man:mftfhang
+[24Jul2025 17:48:53.035] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-347, y=99, z=123} BlockPos{x=-345, y=100, z=125}
+[24Jul2025 17:50:39.725] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-333, y=95, z=118} BlockPos{x=-336, y=99, z=121}
+[24Jul2025 17:50:39.775] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-333, y=95, z=118} BlockPos{x=-336, y=99, z=121}
+[24Jul2025 17:51:06.915] [Worker-Main-9/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/20979, l='ServerLevel[world]', x=-122.00, y=31.00, z=204.00] as it would cause deadlock
+[24Jul2025 17:52:06.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-330, y=95, z=149} BlockPos{x=-332, y=98, z=149}
+[24Jul2025 17:52:06.822] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-330, y=95, z=149} BlockPos{x=-332, y=98, z=149}
+[24Jul2025 17:52:09.244] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-332, y=98, z=143} BlockPos{x=-332, y=99, z=143}
+[24Jul2025 17:55:04.032] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=84, z=123} BlockPos{x=-261, y=84, z=124}
+[24Jul2025 17:55:04.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=84, z=123} BlockPos{x=-261, y=84, z=124}
+[24Jul2025 17:55:04.151] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=84, z=123} BlockPos{x=-261, y=84, z=124}
+[24Jul2025 17:55:04.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-260, y=84, z=123} BlockPos{x=-261, y=84, z=124}
+[24Jul2025 17:56:28.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Nightmare Fuel]
