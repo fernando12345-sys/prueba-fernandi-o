@@ -30,6 +30,7 @@
       "minecraft:jagged_peaks": "2025-07-22 18:51:28 +0000",
       "minecraft:forest": "2025-07-20 06:21:41 +0000",
       "minecraft:ice_spikes": "2025-07-22 05:41:36 +0000",
+      "minecraft:deep_dark": "2025-07-24 15:50:22 +0000",
       "minecraft:meadow": "2025-07-22 04:16:02 +0000",
       "minecraft:plains": "2025-07-20 06:13:20 +0000"
     },
@@ -6031,6 +6032,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-07-24 15:41:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-07-24 15:50:17 +0000"
     },
     "done": true
   },
