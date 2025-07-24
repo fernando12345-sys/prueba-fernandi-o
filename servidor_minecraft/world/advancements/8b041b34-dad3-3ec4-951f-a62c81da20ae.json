@@ -6071,5 +6071,17 @@
     },
     "done": true
   },
+  "scguns:main/craft_gun_parts_mold": {
+    "criteria": {
+      "gun_parts_mold": "2025-07-24 17:33:29 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/craft_blank_mold": {
+    "criteria": {
+      "blank_mold": "2025-07-24 17:33:21 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

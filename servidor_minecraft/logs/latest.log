@@ -844,3 +844,6 @@ java.lang.IllegalStateException: not found
 [24Jul2025 17:09:10.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Slavka'/12263, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Slavka hit the ground too hard'
 [24Jul2025 17:14:47.294] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milovan'/13369, l='ServerLevel[world]', x=-2917.28, y=151.00, z=959.90] died, message: 'Milovan hit the ground too hard'
 [24Jul2025 17:34:02.291] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Sergej'/17395, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Sergej hit the ground too hard'
+[24Jul2025 17:46:33.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Incendium]
+[24Jul2025 17:46:36.544] [Worker-Main-10/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[24Jul2025 17:46:44.121] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10986ms or 219 ticks behind
