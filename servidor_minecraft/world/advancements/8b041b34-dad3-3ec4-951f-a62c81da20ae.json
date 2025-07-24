@@ -6238,6 +6238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-24 19:36:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-07-24 19:17:24 +0000"
@@ -6247,6 +6253,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-07-24 19:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-07-24 19:36:07 +0000"
     },
     "done": true
   },
