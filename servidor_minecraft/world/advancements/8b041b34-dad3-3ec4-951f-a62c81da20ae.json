@@ -6053,6 +6053,12 @@
     },
     "done": true
   },
+  "scguns:main/craft_stamping_press": {
+    "criteria": {
+      "stamping_press": "2025-07-24 17:26:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-24 16:36:14 +0000"
