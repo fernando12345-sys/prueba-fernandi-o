@@ -825,3 +825,14 @@ java.lang.IllegalStateException: not found
 [24Jul2025 16:12:25.201] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
 [24Jul2025 16:16:00.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Klemen'/2223, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Klemen hit the ground too hard'
 [24Jul2025 16:25:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by Warden
+[24Jul2025 16:25:25.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has reached the goal [Postmortal]
+[24Jul2025 16:25:26.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Warden
+[24Jul2025 16:26:13.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[24Jul2025 16:28:31.302] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Nedeljko'/5108, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Nedeljko hit the ground too hard'
+[24Jul2025 16:28:59.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[24Jul2025 16:29:18.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 burned to death
+[24Jul2025 16:29:53.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[24Jul2025 16:32:22.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Štefan'/6113, l='ServerLevel[world]', x=-2917.28, y=151.00, z=959.90] died, message: 'Štefan hit the ground too hard'
+[24Jul2025 16:34:12.197] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[24Jul2025 16:34:12.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[24Jul2025 16:35:23.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
