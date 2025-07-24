@@ -4390,3 +4390,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [24Jul2025 19:07:55.445] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753384061936
 [24Jul2025 19:07:57.724] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Jul2025 19:07:57.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 19:12:07.103] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[24Jul2025 19:12:07.107] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[24Jul2025 19:12:07.109] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[24Jul2025 19:12:07.111] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[24Jul2025 19:12:07.112] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[24Jul2025 19:12:07.114] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[24Jul2025 19:12:07.116] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[24Jul2025 19:12:07.118] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[24Jul2025 19:12:07.119] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[24Jul2025 19:12:07.121] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[24Jul2025 19:12:07.123] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[24Jul2025 19:12:07.124] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[24Jul2025 19:12:07.126] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[24Jul2025 19:12:07.129] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[24Jul2025 19:12:07.133] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[24Jul2025 19:12:07.135] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[24Jul2025 19:12:07.141] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[24Jul2025 19:12:07.145] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[24Jul2025 19:12:07.151] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[24Jul2025 19:12:57.378] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 19:12:57.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Jul2025 19:17:57.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Jul2025 19:17:57.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

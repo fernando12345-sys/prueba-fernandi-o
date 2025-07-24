@@ -528,6 +528,7 @@
       "minecraft:skeleton": "2025-07-20 07:59:44 +0000",
       "minecraft:hoglin": "2025-07-24 17:56:03 +0000",
       "minecraft:vindicator": "2025-07-22 03:16:56 +0000",
+      "minecraft:magma_cube": "2025-07-24 19:12:40 +0000",
       "minecraft:spider": "2025-07-20 07:57:41 +0000",
       "minecraft:creeper": "2025-07-21 03:49:22 +0000",
       "minecraft:phantom": "2025-07-24 15:19:43 +0000",
@@ -6228,6 +6229,18 @@
   "minecraft:nether/obtain_blaze_rod": {
     "criteria": {
       "blaze_rod": "2025-07-24 19:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-07-24 19:17:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-07-24 19:17:24 +0000"
     },
     "done": true
   },
