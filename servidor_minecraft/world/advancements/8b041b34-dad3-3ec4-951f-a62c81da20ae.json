@@ -6053,6 +6053,12 @@
     },
     "done": true
   },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-24 16:36:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/totem_of_undying": {
     "criteria": {
       "used_totem": "2025-07-24 16:25:25 +0000"
