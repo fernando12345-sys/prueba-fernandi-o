@@ -798,3 +798,19 @@ java.lang.IllegalStateException: not found
 [24Jul2025 15:38:36.604] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [24Jul2025 15:38:36.604] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [24Jul2025 15:38:36.605] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[24Jul2025 15:47:49.037] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Tomaž'/5508, l='ServerLevel[world]', x=-2917.28, y=151.00, z=959.90] died, message: 'Tomaž hit the ground too hard'
+[24Jul2025 15:48:27.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> miguel dnde esta
+[24Jul2025 15:49:03.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> si espere
+[24Jul2025 15:49:14.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> comida
+[24Jul2025 15:49:33.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> comida
+[24Jul2025 15:49:38.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> tiene comida
+[24Jul2025 15:49:46.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> me da polla 'por favor
+[24Jul2025 15:50:08.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> ese es el warden?
+[24Jul2025 15:50:14.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> como lo evitamos
+[24Jul2025 15:50:17.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Sneak 100]
+[24Jul2025 15:50:24.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Sneak 100]
+[24Jul2025 15:50:56.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> verga
+[24Jul2025 15:51:33.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> pouto herobrine
+[24Jul2025 15:51:45.997] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> metamonos
+[24Jul2025 15:51:56.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> luchemos contra el warden
+[24Jul2025 15:52:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <hitmanms0715> pues yo lo voy a invocar
