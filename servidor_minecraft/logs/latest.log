@@ -823,3 +823,5 @@ java.lang.IllegalStateException: not found
 [24Jul2025 16:12:25.197] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'hitmanms0715'
 [24Jul2025 16:12:25.200] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'hitmanms0715'
 [24Jul2025 16:12:25.201] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
+[24Jul2025 16:16:00.298] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Klemen'/2223, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Klemen hit the ground too hard'
+[24Jul2025 16:25:08.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by Warden
