@@ -5117,11 +5117,17 @@
     },
     "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
     "criteria": {
-      "requirement": "2025-07-24 15:28:45 +0000"
+      "has_sweet_berries": "2025-07-24 15:34:33 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-07-24 15:34:33 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
