@@ -4637,3 +4637,13 @@ java.lang.IllegalStateException: not found
 [27Jul2025 02:13:04.196] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:jungle_tree_house/jungle_tree_house_1_roots
 [27Jul2025 02:17:38.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 02:17:38.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 02:22:38.748] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 02:22:38.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 02:24:29.802] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/town_centers/plains_meeting_point_2
+[27Jul2025 02:24:29.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_meeting_point_4
+[27Jul2025 02:24:29.873] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_accessory_1
+[27Jul2025 02:24:29.879] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_small_farm_1
+[27Jul2025 02:24:29.899] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_meeting_point_5
+[27Jul2025 02:24:29.904] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_03
+[27Jul2025 02:27:38.755] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 02:27:38.803] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
