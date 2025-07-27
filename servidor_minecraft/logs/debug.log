@@ -4792,3 +4792,18 @@ java.lang.IllegalStateException: not found
 [27Jul2025 04:02:40.809] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 04:02:40.855] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jul2025 04:03:05.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Rozle'/40638, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Rozle hit the ground too hard'
+[27Jul2025 04:07:40.863] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 04:07:40.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 04:09:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
+[27Jul2025 04:11:20.696] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.83534205
+[27Jul2025 04:11:48.002] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8965473
+[27Jul2025 04:12:40.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 04:12:40.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 04:13:08.891] [Server thread/INFO] [ToolLeveling+/]: TableUpgradeProcess failed 0.75 0.8465312
+[27Jul2025 04:14:44.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[27Jul2025 04:16:28.141] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mileva'/43972, l='ServerLevel[world]', x=-2917.28, y=151.00, z=959.90] died, message: 'Mileva hit the ground too hard'
+[27Jul2025 04:17:40.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 04:17:40.877] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 04:21:43.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Creative Mode]
+[27Jul2025 04:22:40.791] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 04:22:40.822] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
