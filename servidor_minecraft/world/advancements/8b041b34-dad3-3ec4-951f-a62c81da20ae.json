@@ -426,6 +426,7 @@
       "bread": "2025-07-20 08:02:13 +0000",
       "golden_apple": "2025-07-22 05:25:52 +0000",
       "rotten_flesh": "2025-07-21 04:10:38 +0000",
+      "golden_carrot": "2025-07-27 04:48:08 +0000",
       "cooked_chicken": "2025-07-21 04:08:53 +0000",
       "carrot": "2025-07-22 05:22:22 +0000"
     },
@@ -2281,7 +2282,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-07-24 17:55:13 +0000",
       "minecraft:soul_sand_valley": "2025-07-22 03:21:46 +0000",
-      "minecraft:nether_wastes": "2025-07-24 17:46:44 +0000"
+      "minecraft:nether_wastes": "2025-07-24 17:46:44 +0000",
+      "minecraft:basalt_deltas": "2025-07-27 04:45:05 +0000"
     },
     "done": false
   },
@@ -6395,9 +6397,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-27 04:45:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-07-27 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2025-07-27 04:45:07 +0000"
     },
     "done": true
   },

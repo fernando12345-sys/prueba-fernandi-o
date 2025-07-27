@@ -5074,3 +5074,73 @@ java.lang.IllegalStateException: not found
 [27Jul2025 04:43:37.592] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'hitmanms0715'
 [27Jul2025 04:43:37.593] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
 [27Jul2025 04:43:38.314] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753591418314
+[27Jul2025 04:44:41.465] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:reactor/reactor
+[27Jul2025 04:45:01.565] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:quartz_flats/quartz_tower1
+[27Jul2025 04:45:01.576] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/start1
+[27Jul2025 04:45:01.580] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter1
+[27Jul2025 04:45:01.584] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/starter2
+[27Jul2025 04:45:01.586] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_elbow
+[27Jul2025 04:45:01.587] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_vh
+[27Jul2025 04:45:01.589] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_long
+[27Jul2025 04:45:01.590] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_t
+[27Jul2025 04:45:01.591] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_s
+[27Jul2025 04:45:01.592] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_hv
+[27Jul2025 04:45:01.594] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_4way
+[27Jul2025 04:45:01.597] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_t_hv
+[27Jul2025 04:45:01.598] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_vh
+[27Jul2025 04:45:01.600] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_h_end
+[27Jul2025 04:45:01.602] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_hv
+[27Jul2025 04:45:01.604] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_vh
+[27Jul2025 04:45:01.606] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_h
+[27Jul2025 04:45:01.607] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v
+[27Jul2025 04:45:01.610] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_tall
+[27Jul2025 04:45:01.611] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/small_v_end
+[27Jul2025 04:45:01.613] [Worker-Main-71/DEBUG] [ModernFix/]: Using cached upgraded version of incendium:pipeline/large_v
+[27Jul2025 04:47:47.405] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[27Jul2025 04:47:47.405] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/core_id
+[27Jul2025 04:47:47.406] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[27Jul2025 04:47:47.406] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/topology/physical_package_id
+[27Jul2025 04:47:47.406] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu0/cpu_capacity
+[27Jul2025 04:47:47.407] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[27Jul2025 04:47:47.407] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/core_id
+[27Jul2025 04:47:47.407] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[27Jul2025 04:47:47.407] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/topology/physical_package_id
+[27Jul2025 04:47:47.407] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /sys/devices/system/cpu/cpu1/cpu_capacity
+[27Jul2025 04:47:47.408] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/cpuinfo
+[27Jul2025 04:47:47.442] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/self/auxv
+[27Jul2025 04:47:47.443] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader cpw.mods.modlauncher.TransformingClassLoader@20c812c8
+[27Jul2025 04:47:47.451] [Server thread/DEBUG] [oshi.util.FileUtil/]: No oshi.architecture.properties file found from ClassLoader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528
+[27Jul2025 04:47:47.472] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[27Jul2025 04:47:47.472] [Server thread/DEBUG] [oshi.util.FileUtil/]: Reading file /proc/meminfo
+[27Jul2025 04:47:47.482] [Server thread/ERROR] [net.minecraft.world.level.chunk.storage.EntityStorage/]: An Entity type entity.scguns.brass_bolt has thrown an exception trying to write state. It will not persist. Report this to the mod author
+net.minecraft.ReportedException: Saving entity NBT
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1683) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.entity.Entity.m_20086_(Entity.java:1588) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.entity.Entity.m_20223_(Entity.java:1595) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_156565_(EntityStorage.java:93) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625) ~[?:?]
+	at java.util.stream.ReferencePipeline$Head.forEach(ReferencePipeline.java:762) ~[?:?]
+	at net.minecraft.world.level.chunk.storage.EntityStorage.m_141971_(EntityStorage.java:90) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157512_(PersistentEntitySectionManager.java:217) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157578_(PersistentEntitySectionManager.java:291) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at it.unimi.dsi.fastutil.longs.LongOpenHashSet.forEach(LongOpenHashSet.java:756) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.LongIterable.forEach(LongIterable.java:146) ~[fastutil-8.5.9.jar%2390!/:?]
+	at it.unimi.dsi.fastutil.longs.AbstractLongCollection.forEach(AbstractLongCollection.java:149) ~[fastutil-8.5.9.jar%2390!/:?]
+	at net.minecraft.world.level.entity.PersistentEntitySectionManager.m_157554_(PersistentEntitySectionManager.java:286) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.level.ServerLevel.m_8643_(ServerLevel.java:746) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_129885_(MinecraftServer.java:507) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_195514_(MinecraftServer.java:532) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:824) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:661) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:251) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resources.ResourceLocation.toString()" because the return value of "net.minecraft.core.Registry.m_7981_(Object)" is null
+	at net.minecraft.world.entity.projectile.AbstractArrow.m_7380_(AbstractArrow.java:465) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at top.ribs.scguns.entity.projectile.BrassBoltEntity.m_7380_(BrassBoltEntity.java:110) ~[ScorchedGuns-0.4.1-1.20.1.jar%23228!/:0.4.1-1.20.1]
+	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	... 19 more
+[27Jul2025 04:47:47.562] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 04:47:47.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 04:49:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Straddle My Ol' Saddle]
+[27Jul2025 04:52:47.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 04:52:47.564] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

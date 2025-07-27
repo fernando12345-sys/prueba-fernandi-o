@@ -811,6 +811,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-07-20 07:26:39 +0000",
+      "minecraft:ghast": "2025-07-27 04:49:10 +0000",
       "minecraft:vindicator": "2025-07-22 03:17:13 +0000",
       "minecraft:spider": "2025-07-20 07:36:28 +0000",
       "minecraft:creeper": "2025-07-21 19:43:43 +0000",
@@ -2429,7 +2430,9 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:soul_sand_valley": "2025-07-22 03:21:48 +0000"
+      "minecraft:soul_sand_valley": "2025-07-22 03:21:48 +0000",
+      "minecraft:nether_wastes": "2025-07-27 04:43:38 +0000",
+      "minecraft:basalt_deltas": "2025-07-27 04:45:03 +0000"
     },
     "done": false
   },
@@ -5320,78 +5323,65 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "alexsmobs:alexsmobs/murmur": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "requirement": "2025-07-27 04:42:59 +0000",
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "killed_by": "2025-07-27 01:50:11 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
+  "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_red_wool": "2025-07-27 01:50:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "cfm:recipes/decorations/red_sofa": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_wool": "2025-07-27 01:50:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/red_bed": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_red_wool": "2025-07-27 01:50:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_block": {
+  "minecraft:recipes/decorations/red_carpet": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_red_wool": "2025-07-27 01:50:18 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_iron_nugget": "2025-07-27 01:55:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "refurbished_furniture:recipes/misc/television_remote": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_iron_nugget": "2025-07-27 01:55:47 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "mcwwindows:recipes/deepslate": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_wood": "2025-07-27 01:59:10 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/firestorm": {
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "has_spider_eye": "2025-07-27 02:03:05 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "minecraft:story/lava_bucket": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
+      "lava_bucket": "2025-07-27 03:04:19 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 04:42:40 +0000"
-    },
-    "done": false
+    "done": true
   },
   "cfm:recipes/decorations/birch_cabinet": {
     "criteria": {
@@ -5405,57 +5395,15 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
-  "incendium:root": {
-    "criteria": {
-      "requirement": "2025-07-27 04:43:25 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_table": {
     "criteria": {
       "has_log": "2025-07-27 03:09:57 +0000"
     },
     "done": true
   },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-07-27 03:12:46 +0000"
-    },
-    "done": true
-  },
-  "scguns:main/blackpowder/musket": {
-    "criteria": {
-      "musket": "2025-07-27 03:26:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lectern": {
-    "criteria": {
-      "has_book": "2025-07-27 03:13:38 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_park_bench": {
-    "criteria": {
-      "has_log": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_blinds": {
     "criteria": {
       "has_log": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/writable_book": {
-    "criteria": {
-      "has_book": "2025-07-27 03:13:38 +0000"
     },
     "done": true
   },
@@ -5471,39 +5419,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_spruce_cabinet": {
-    "criteria": {
-      "has_log": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/birch": {
     "criteria": {
       "has_wood": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
-    "criteria": {
-      "has_planks": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-07-27 03:04:19 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_chair": {
-    "criteria": {
-      "has_planks": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_banner": {
-    "criteria": {
-      "has_red_wool": "2025-07-27 01:50:18 +0000"
     },
     "done": true
   },
@@ -5519,27 +5437,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/spruce": {
-    "criteria": {
-      "has_wood": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_fence": {
-    "criteria": {
-      "has_log": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_coffee_table": {
     "criteria": {
       "has_log": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/red_sofa": {
-    "criteria": {
-      "has_wool": "2025-07-27 01:50:18 +0000"
     },
     "done": true
   },
@@ -5549,51 +5449,9 @@
     },
     "done": true
   },
-  "mcwwindows:recipes/deepslate": {
-    "criteria": {
-      "has_wood": "2025-07-27 01:59:10 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_table": {
-    "criteria": {
-      "has_planks": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_bed": {
-    "criteria": {
-      "has_red_wool": "2025-07-27 01:50:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-27 01:55:47 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_log": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/family_tree": {
-    "criteria": {
-      "has_item": "2025-07-27 03:13:38 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bookshelf": {
-    "criteria": {
-      "has_book": "2025-07-27 03:13:38 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/television_remote": {
-    "criteria": {
-      "has_iron_nugget": "2025-07-27 01:55:47 +0000"
     },
     "done": true
   },
@@ -5603,21 +5461,9 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/spruce_blinds": {
-    "criteria": {
-      "has_log": "2025-07-27 03:23:07 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/stripped_spruce_crate": {
-    "criteria": {
-      "has_planks": "2025-07-27 03:23:07 +0000"
     },
     "done": true
   },
@@ -5633,21 +5479,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
-    "criteria": {
-      "has_book": "2025-07-27 03:13:38 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/birch_upgraded_fence": {
     "criteria": {
       "has_log": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "cfm:recipes/decorations/spruce_upgraded_gate": {
-    "criteria": {
-      "has_log": "2025-07-27 03:23:07 +0000"
     },
     "done": true
   },
@@ -5657,27 +5491,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed_by": "2025-07-27 01:50:11 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_birch_desk": {
     "criteria": {
       "has_planks": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_carpet": {
-    "criteria": {
-      "has_red_wool": "2025-07-27 01:50:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-07-27 02:03:05 +0000"
     },
     "done": true
   },
@@ -5705,9 +5521,111 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
     "criteria": {
-      "has_pumpkin": "2025-07-27 04:28:41 +0000"
+      "has_log": "2025-07-27 03:09:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-07-27 03:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-07-27 03:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-07-27 03:13:38 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-07-27 03:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-27 03:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-07-27 03:13:38 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_kitchen_counter": {
+    "criteria": {
+      "has_log": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_park_bench": {
+    "criteria": {
+      "has_log": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_cabinet": {
+    "criteria": {
+      "has_log": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_chair": {
+    "criteria": {
+      "has_planks": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/spruce": {
+    "criteria": {
+      "has_wood": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_blinds": {
+    "criteria": {
+      "has_log": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_spruce_crate": {
+    "criteria": {
+      "has_planks": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/spruce_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-07-27 03:23:07 +0000"
     },
     "done": true
   },
@@ -5723,15 +5641,45 @@
     },
     "done": true
   },
-  "cfm:recipes/decorations/stripped_birch_kitchen_counter": {
-    "criteria": {
-      "has_log": "2025-07-27 03:09:57 +0000"
-    },
-    "done": true
-  },
   "cfm:recipes/decorations/stripped_spruce_bedside_cabinet": {
     "criteria": {
       "has_planks": "2025-07-27 03:23:07 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/blackpowder/musket": {
+    "criteria": {
+      "musket": "2025-07-27 03:26:19 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-07-27 04:28:41 +0000"
+    },
+    "done": true
+  },
+  "incendium:root": {
+    "criteria": {
+      "requirement": "2025-07-27 04:43:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-07-27 04:49:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-07-27 04:51:04 +0000"
+    },
+    "done": true
+  },
+  "scguns:main/sheol": {
+    "criteria": {
+      "sheol": "2025-07-27 04:47:56 +0000"
     },
     "done": true
   },
