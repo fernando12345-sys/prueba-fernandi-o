@@ -858,3 +858,4 @@ java.lang.IllegalStateException: not found
 [27Jul2025 03:38:46.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 withered away whilst fighting Cerberus
 [27Jul2025 03:39:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Spooky Scary Skeleton]
 [27Jul2025 03:42:21.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Boneyard]
+[27Jul2025 03:43:32.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Katja'/35366, l='ServerLevel[world]', x=-2917.28, y=151.00, z=959.90] died, message: 'Katja hit the ground too hard'
