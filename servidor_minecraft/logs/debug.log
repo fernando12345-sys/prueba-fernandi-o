@@ -4611,3 +4611,16 @@ java.lang.IllegalStateException: not found
 [27Jul2025 01:47:38.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 01:47:39.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Jul2025 01:50:11.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Flexible Schedule]
+[27Jul2025 01:52:00.240] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_farm_2
+[27Jul2025 01:52:00.270] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/snowy/houses/snowy_farm_1
+[27Jul2025 01:52:00.279] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[27Jul2025 01:52:00.280] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_02
+[27Jul2025 01:52:00.281] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/terminators/terminator_04
+[27Jul2025 01:52:38.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 01:52:38.935] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 01:57:38.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 01:57:38.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 01:59:34.155] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[27Jul2025 01:59:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by Botfly
+[27Jul2025 01:59:53.264] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753581593259
+[27Jul2025 02:00:08.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
