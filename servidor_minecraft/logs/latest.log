@@ -966,3 +966,55 @@ java.lang.IllegalStateException: not found
 [27Jul2025 05:03:29.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
 [27Jul2025 05:03:29.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
 [27Jul2025 05:03:29.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
+[27Jul2025 05:04:55.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Nightmare Fuel]
+[27Jul2025 05:05:58.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was doomed to fall by hitmanms0715
+[27Jul2025 05:05:59.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 fell from a high place
+[27Jul2025 05:06:29.162] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3628ms or 72 ticks behind
+[27Jul2025 05:06:43.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[27Jul2025 05:06:44.053] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[27Jul2025 05:06:44.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[27Jul2025 05:06:49.322] [Thread-190/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:hitmanms0715'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jul2025 05:06:49.416] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hitmanms0715[/127.92.75.8:35475] logged in with entity id 62638 at (-99.13376529727313, 45.0, 129.10717479957103)
+[27Jul2025 05:06:49.462] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hitmanms0715
+[27Jul2025 05:06:49.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 joined the game
+[27Jul2025 05:06:49.649] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'hitmanms0715'
+[27Jul2025 05:06:49.652] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'hitmanms0715'
+[27Jul2025 05:06:49.655] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
+[27Jul2025 05:07:27.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[27Jul2025 05:07:30.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 burned to death
+[27Jul2025 05:07:41.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[27Jul2025 05:07:41.627] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[27Jul2025 05:07:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[27Jul2025 05:07:45.917] [Thread-191/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:hitmanms0715'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jul2025 05:07:45.998] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hitmanms0715[/127.92.75.8:55865] logged in with entity id 63222 at (-96.61735585228125, 43.0, 144.86156734652906)
+[27Jul2025 05:07:46.016] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hitmanms0715
+[27Jul2025 05:07:46.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 joined the game
+[27Jul2025 05:07:46.096] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'hitmanms0715'
+[27Jul2025 05:07:46.096] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'hitmanms0715'
+[27Jul2025 05:07:46.097] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
