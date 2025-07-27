@@ -1018,3 +1018,34 @@ java.lang.IllegalStateException: not found
 [27Jul2025 05:07:46.096] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'hitmanms0715'
 [27Jul2025 05:07:46.096] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'hitmanms0715'
 [27Jul2025 05:07:46.097] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
+[27Jul2025 05:16:24.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 burned to death
+[27Jul2025 05:16:43.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[27Jul2025 05:16:43.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[27Jul2025 05:16:43.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[27Jul2025 05:16:49.924] [Thread-200/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:hitmanms0715'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jul2025 05:16:49.968] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hitmanms0715[/127.92.75.8:47619] logged in with entity id 66870 at (115.40870786813689, 31.875, 261.82991878578156)
+[27Jul2025 05:16:49.978] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hitmanms0715
+[27Jul2025 05:16:49.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 joined the game
+[27Jul2025 05:16:50.061] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'hitmanms0715'
+[27Jul2025 05:16:50.062] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'hitmanms0715'
+[27Jul2025 05:16:50.063] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
+[27Jul2025 05:17:03.895] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/66328, l='ServerLevel[world]', x=123.82, y=31.88, z=254.16] died: Toxic Slime was slain by ZeusBread
+[27Jul2025 05:19:20.390] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67093, l='ServerLevel[world]', x=60.41, y=64.00, z=314.93] died: Toxic Slime was killed by magic
+[27Jul2025 05:20:42.037] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/67094, l='ServerLevel[world]', x=89.71, y=45.00, z=250.64] died: Toxic Slime was killed by magic
+[27Jul2025 05:22:27.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Radioactive]
+[27Jul2025 05:22:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Radioactive]
+[27Jul2025 05:24:09.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Toxic Personality]
+[27Jul2025 05:24:27.327] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69729, l='ServerLevel[world]', x=108.72, y=66.00, z=324.36] died: Toxic Slime was slain by ZeusBread
