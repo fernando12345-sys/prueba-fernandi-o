@@ -799,3 +799,4 @@ java.lang.IllegalStateException: not found
 [27Jul2025 01:50:11.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Flexible Schedule]
 [27Jul2025 01:59:50.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was slain by Botfly
 [27Jul2025 02:00:08.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[27Jul2025 02:01:47.104] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Robi'/4888, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Robi hit the ground too hard'
