@@ -854,3 +854,7 @@ java.lang.IllegalStateException: not found
 [27Jul2025 03:17:52.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Milena'/25863, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Milena hit the ground too hard'
 [27Jul2025 03:23:48.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Cover Me with Diamonds]
 [27Jul2025 03:30:29.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 was shot by Skeleton
+[27Jul2025 03:38:35.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Cerberus
+[27Jul2025 03:38:46.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 withered away whilst fighting Cerberus
+[27Jul2025 03:39:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Spooky Scary Skeleton]
+[27Jul2025 03:42:21.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Boneyard]

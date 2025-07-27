@@ -4759,3 +4759,22 @@ java.lang.IllegalStateException: not found
 [27Jul2025 03:30:30.820] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753587030780
 [27Jul2025 03:32:40.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Jul2025 03:32:40.926] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 03:37:40.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 03:37:40.858] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Jul2025 03:38:35.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread was slain by Cerberus
+[27Jul2025 03:38:36.915] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753587516915
+[27Jul2025 03:38:37.019] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[27Jul2025 03:38:37.022] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[27Jul2025 03:38:37.026] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[27Jul2025 03:38:37.028] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[27Jul2025 03:38:37.087] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[27Jul2025 03:38:37.107] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[27Jul2025 03:38:38.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of watching:redstone_torch_trail/trail2
+[27Jul2025 03:38:43.417] [Worker-Main-72/DEBUG] [ModernFix/]: Using cached upgraded version of watching:leafless_grove/oak_birch/grove2
+[27Jul2025 03:38:43.609] [Worker-Main-72/DEBUG] [ModernFix/]: Using cached upgraded version of minecraft:village/plains/houses/plains_large_farm_1
+[27Jul2025 03:38:46.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 withered away whilst fighting Cerberus
+[27Jul2025 03:38:48.085] [Server thread/DEBUG] [tacz/SYNC_BASE_TIMESTAMP]: Update server base timestamp: 1753587528066
+[27Jul2025 03:39:29.993] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Spooky Scary Skeleton]
+[27Jul2025 03:42:21.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Boneyard]
+[27Jul2025 03:42:40.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Jul2025 03:42:40.918] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
