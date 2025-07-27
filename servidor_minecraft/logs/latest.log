@@ -1049,3 +1049,33 @@ java.lang.IllegalStateException: not found
 [27Jul2025 05:22:29.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Radioactive]
 [27Jul2025 05:24:09.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Toxic Personality]
 [27Jul2025 05:24:27.327] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69729, l='ServerLevel[world]', x=108.72, y=66.00, z=324.36] died: Toxic Slime was slain by ZeusBread
+[27Jul2025 05:25:53.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69569, l='ServerLevel[world]', x=153.39, y=-20.00, z=367.39] died: Toxic Slime was killed
+[27Jul2025 05:26:23.941] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69888, l='ServerLevel[world]', x=73.66, y=-20.00, z=541.88] died: Toxic Slime was killed
+[27Jul2025 05:26:23.944] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69889, l='ServerLevel[world]', x=73.86, y=-20.00, z=530.86] died: Toxic Slime was killed
+[27Jul2025 05:26:23.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/69890, l='ServerLevel[world]', x=73.88, y=-20.00, z=541.12] died: Toxic Slime was killed
+[27Jul2025 05:26:55.806] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/70393, l='ServerLevel[world]', x=110.00, y=31.00, z=612.00] as it would cause deadlock
+[27Jul2025 05:27:54.073] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/70690, l='ServerLevel[world]', x=135.00, y=31.00, z=669.00] as it would cause deadlock
+[27Jul2025 05:28:39.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70169, l='ServerLevel[world]', x=-56.70, y=-20.00, z=479.78] died: Toxic Slime was killed
+[27Jul2025 05:29:46.877] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71279, l='ServerLevel[world]', x=-10.11, y=43.00, z=486.20] died: Toxic Slime was slain by ZeusBread
+[27Jul2025 05:30:17.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70644, l='ServerLevel[world]', x=8.85, y=-20.00, z=546.26] died: Toxic Slime was killed
+[27Jul2025 05:30:17.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70646, l='ServerLevel[world]', x=-1.02, y=-20.00, z=549.21] died: Toxic Slime was killed
+[27Jul2025 05:30:30.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70762, l='ServerLevel[world]', x=11.58, y=-20.00, z=477.23] died: Toxic Slime was killed
+[27Jul2025 05:30:36.937] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/70797, l='ServerLevel[world]', x=-2.27, y=-20.00, z=549.00] died: Toxic Slime was killed
+[27Jul2025 05:31:12.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71052, l='ServerLevel[world]', x=19.26, y=-20.00, z=462.09] died: Toxic Slime was killed
+[27Jul2025 05:31:12.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71061, l='ServerLevel[world]', x=-49.52, y=-20.00, z=463.38] died: Toxic Slime was killed
+[27Jul2025 05:31:27.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=47, z=513} BlockPos{x=5, y=45, z=512}
+[27Jul2025 05:31:27.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=47, z=513} BlockPos{x=5, y=45, z=512}
+[27Jul2025 05:31:27.926] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2, y=47, z=513} BlockPos{x=5, y=45, z=512}
+[27Jul2025 05:31:33.526] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/72158, l='ServerLevel[world]', x=213.00, y=31.00, z=677.00] as it would cause deadlock
+[27Jul2025 05:31:39.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71157, l='ServerLevel[world]', x=0.23, y=-20.00, z=431.39] died: Toxic Slime was killed
+[27Jul2025 05:31:42.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71171, l='ServerLevel[world]', x=2.37, y=-20.00, z=466.51] died: Toxic Slime was killed
+[27Jul2025 05:31:49.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71200, l='ServerLevel[world]', x=-58.83, y=-20.00, z=459.93] died: Toxic Slime was killed
+[27Jul2025 05:32:01.943] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71268, l='ServerLevel[world]', x=-32.99, y=-20.00, z=461.24] died: Toxic Slime was killed
+[27Jul2025 05:33:22.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Toxic Personality]
+[27Jul2025 05:33:37.350] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/74550, l='ServerLevel[world]', x=47.99, y=33.00, z=530.83] died: Toxic Slime was slain by ZeusBread
+[27Jul2025 05:33:39.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/71828, l='ServerLevel[world]', x=94.51, y=-20.00, z=549.90] died: Toxic Slime was killed
+[27Jul2025 05:34:13.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has reached the goal [Pocket Edition Alpha]
+[27Jul2025 05:34:14.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/72278, l='ServerLevel[world]', x=-1.79, y=-20.00, z=435.12] died: Toxic Slime was killed
+[27Jul2025 05:34:17.940] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/72284, l='ServerLevel[world]', x=25.74, y=-20.00, z=468.26] died: Toxic Slime was killed
+[27Jul2025 05:34:35.938] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/72390, l='ServerLevel[world]', x=84.66, y=-20.00, z=572.25] died: Toxic Slime was killed
+[27Jul2025 05:34:55.871] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/72564, l='ServerLevel[world]', x=69.52, y=32.83, z=531.21] died: Toxic Slime was slain by ZeusBread

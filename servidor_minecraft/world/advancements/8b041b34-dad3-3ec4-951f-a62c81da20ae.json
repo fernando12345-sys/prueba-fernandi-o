@@ -6446,6 +6446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/slime_ball": {
+    "criteria": {
+      "has_slime_block": "2025-07-27 05:25:04 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:recipes/misc/undead_army_battle_standard": {
     "criteria": {
       "has_cloth": "2025-07-27 03:42:21 +0000"
@@ -6464,9 +6470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-07-27 05:23:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-27 04:54:51 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
+    "criteria": {
+      "has_slime_block": "2025-07-27 05:25:04 +0000"
     },
     "done": true
   },
@@ -6479,6 +6497,12 @@
   "minecraft:recipes/misc/beacon": {
     "criteria": {
       "has_nether_star": "2025-07-27 04:25:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_glazed_terracotta": {
+    "criteria": {
+      "has_green_terracotta": "2025-07-27 05:29:54 +0000"
     },
     "done": true
   },
@@ -6500,6 +6524,12 @@
     },
     "done": true
   },
+  "incendium:toxic_heap/slime_poison": {
+    "criteria": {
+      "poison": "2025-07-27 05:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2025-07-27 03:39:29 +0000"
@@ -6515,6 +6545,12 @@
   "majruszsdifficulty:recipes/misc/string_from_cloth": {
     "criteria": {
       "has_cloth": "2025-07-27 03:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+    "criteria": {
+      "has_lime_terracotta": "2025-07-27 05:22:55 +0000"
     },
     "done": true
   },
