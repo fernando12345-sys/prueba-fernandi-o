@@ -932,3 +932,37 @@ Caused by: java.lang.NullPointerException: Cannot invoke "net.minecraft.resource
 	at net.minecraft.world.entity.Entity.m_20240_(Entity.java:1662) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
 	... 19 more
 [27Jul2025 04:49:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Straddle My Ol' Saddle]
+[27Jul2025 04:55:22.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread has made the advancement [Straddle My Ol' Saddle]
+[27Jul2025 04:59:17.529] [Worker-Main-71/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/57811, l='ServerLevel[world]', x=-759.00, y=31.00, z=301.00] as it would cause deadlock
+[27Jul2025 04:59:57.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 withered away
+[27Jul2025 05:00:13.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[27Jul2025 05:00:14.087] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Disconnected
+[27Jul2025 05:00:14.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[27Jul2025 05:00:20.741] [Thread-181/WARN] [SkinRestorer/]: Failed to fetch skin 'mojang:hitmanms0715'
+java.lang.IllegalStateException: not found
+	at net.lionarius.skinrestorer.util.WebUtils.throwOnClientErrors(WebUtils.java:77) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.getProfile(MojangSkinProvider.java:128) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.lambda$static$0(MojangSkinProvider.java:52) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.players.GameProfileCache.m_10993_(GameProfileCache.java:98) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.players.GameProfileCache.m_10996_(GameProfileCache.java:150) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.lionarius.skinrestorer.skin.provider.MojangSkinProvider.fetchSkin(MojangSkinProvider.java:99) ~[skinrestorer-2.4.2+1.20-forge.jar%23229!/:2.4.2+1.20-forge]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$skinrestorer$fetchSkin$1$1(ServerLoginPacketListenerImpl.java:582) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.Optional.map(Optional.java:260) ~[?:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.skinrestorer$fetchSkin(ServerLoginPacketListenerImpl.java:581) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at net.minecraft.server.network.ServerLoginPacketListenerImpl.md779458$lambda$waitForSkin$0$2(ServerLoginPacketListenerImpl.java:566) ~[server-1.20.1-20230612.114412-srg.jar%23245!/:?]
+	at java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+[27Jul2025 05:00:20.782] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: hitmanms0715[/127.92.75.8:55309] logged in with entity id 58507 at (-613.5482425798692, 132.0, 214.12609002221532)
+[27Jul2025 05:00:20.793] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player hitmanms0715
+[27Jul2025 05:00:20.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 joined the game
+[27Jul2025 05:00:20.826] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'hitmanms0715'
+[27Jul2025 05:00:20.827] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'hitmanms0715'
+[27Jul2025 05:00:20.827] [Server thread/INFO] [Jade/]: Syncing config to hitmanms0715 (e00ce0e3-456a-356c-b267-084ac8f65390)
+[27Jul2025 05:01:28.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[27Jul2025 05:01:28.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [A Terrible Fortress]
+[27Jul2025 05:03:29.643] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
+[27Jul2025 05:03:29.692] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
+[27Jul2025 05:03:29.743] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
+[27Jul2025 05:03:29.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
+[27Jul2025 05:03:29.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
+[27Jul2025 05:03:29.894] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-205, y=61, z=169} BlockPos{x=-205, y=60, z=168}
