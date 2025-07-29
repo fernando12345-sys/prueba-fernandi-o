@@ -829,3 +829,29 @@ java.lang.IllegalStateException: not found
 [29Jul2025 19:46:42.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9470, l='ServerLevel[world]', x=78.17, y=-20.00, z=465.63] died: Toxic Slime was killed
 [29Jul2025 19:47:32.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9560, l='ServerLevel[world]', x=92.12, y=-20.00, z=549.80] died: Toxic Slime was killed
 [29Jul2025 19:47:42.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9579, l='ServerLevel[world]', x=54.77, y=-20.00, z=547.29] died: Toxic Slime was killed
+[29Jul2025 19:48:29.150] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeusBread[/127.95.195.190:34719] logged in with entity id 10557 at (-660.2955404456999, 60.49390748022948, 307.6645212734251)
+[29Jul2025 19:48:29.195] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeusBread
+[29Jul2025 19:48:29.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread joined the game
+[29Jul2025 19:48:29.278] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ZeusBread'
+[29Jul2025 19:48:29.279] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ZeusBread'
+[29Jul2025 19:48:29.280] [Server thread/INFO] [Jade/]: Syncing config to ZeusBread (8b041b34-dad3-3ec4-951f-a62c81da20ae)
+[29Jul2025 19:48:30.617] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9792, l='ServerLevel[world]', x=62.26, y=-20.00, z=528.26] died: Toxic Slime was killed
+[29Jul2025 19:48:36.421] [Worker-Main-9/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[29Jul2025 19:48:38.373] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9819, l='ServerLevel[world]', x=62.26, y=-20.00, z=531.74] died: Toxic Slime was killed
+[29Jul2025 19:48:46.096] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2018ms or 40 ticks behind
+[29Jul2025 19:48:51.498] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/9887, l='ServerLevel[world]', x=65.18, y=-20.00, z=476.62] died: Toxic Slime was killed
+[29Jul2025 19:49:16.515] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2337ms or 46 ticks behind
+[29Jul2025 19:49:24.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Set own game mode to Survival Mode]
+[29Jul2025 19:49:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[29Jul2025 19:53:56.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 has made the advancement [Into Fire]
+[29Jul2025 19:57:10.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZeusBread: Teleported hitmanms0715 to ZeusBread]
+[29Jul2025 19:57:24.394] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5515ms or 110 ticks behind
+[29Jul2025 19:57:28.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread lost connection: Disconnected
+[29Jul2025 19:57:28.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread left the game
+[29Jul2025 19:57:28.646] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Jul2025 19:57:34.533] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZeusBread[/127.95.195.190:33953] logged in with entity id 13270 at (-2890.5, 143.0, 982.0091385477643)
+[29Jul2025 19:57:34.548] [Server thread/INFO] [ModernFix/]: Using enhanced recipe sync for player ZeusBread
+[29Jul2025 19:57:34.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread joined the game
+[29Jul2025 19:57:34.789] [Server thread/INFO] [ToolLeveling+/]: Sending config 'tool_leveling_table.json' to player 'ZeusBread'
+[29Jul2025 19:57:34.794] [Server thread/INFO] [ToolLeveling+/]: Sending config 'command_config.json' to player 'ZeusBread'
+[29Jul2025 19:57:34.794] [Server thread/INFO] [Jade/]: Syncing config to ZeusBread (8b041b34-dad3-3ec4-951f-a62c81da20ae)
