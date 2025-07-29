@@ -5831,77 +5831,41 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "incendium:toxic_heap/root": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
+      "requirement": "2025-07-27 05:22:27 +0000"
+    },
+    "done": true
+  },
+  "incendium:misc/soul_searcher": {
+    "criteria": {
+      "incendium:toxic_heap": "2025-07-27 05:22:27 +0000"
     },
     "done": false
   },
-  "incendium:technical/on_player_hurt": {
+  "minecraft:recipes/misc/slime_ball": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
+      "has_slime_block": "2025-07-27 05:22:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
+      "has_slime_block": "2025-07-27 05:22:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "minecraft:recipes/decorations/lime_glazed_terracotta": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
+      "has_lime_terracotta": "2025-07-27 05:22:43 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/holy_wrath": {
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
     "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
+      "has_yellow_terracotta": "2025-07-27 05:25:18 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-07-27 05:42:57 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
     "criteria": {
@@ -5927,57 +5891,9 @@
     },
     "done": true
   },
-  "incendium:toxic_heap/root": {
-    "criteria": {
-      "requirement": "2025-07-27 05:22:27 +0000"
-    },
-    "done": true
-  },
   "mcwwindows:recipes/quartz": {
     "criteria": {
       "has_wood": "2025-07-27 05:31:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/slime_block": {
-    "criteria": {
-      "has_slime_ball": "2025-07-27 05:34:18 +0000"
-    },
-    "done": true
-  },
-  "incendium:misc/soul_searcher": {
-    "criteria": {
-      "incendium:toxic_heap": "2025-07-27 05:22:27 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/slime_ball": {
-    "criteria": {
-      "has_slime_block": "2025-07-27 05:22:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-07-27 05:25:18 +0000"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/slicing/slime_ball_from_slime_block": {
-    "criteria": {
-      "has_slime_block": "2025-07-27 05:22:43 +0000"
-    },
-    "done": true
-  },
-  "incendium:toxic_heap/mystic_wisdom": {
-    "criteria": {
-      "junk": "2025-07-27 05:34:13 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/tools/lead": {
-    "criteria": {
-      "has_slime_ball": "2025-07-27 05:34:18 +0000"
     },
     "done": true
   },
@@ -5993,11 +5909,17 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/sticky_piston": {
+  "incendium:toxic_heap/slime_poison": {
     "criteria": {
-      "has_slime_ball": "2025-07-27 05:34:18 +0000"
+      "poison": "2025-07-27 05:33:22 +0000"
     },
     "done": true
+  },
+  "incendium:toxic_heap/mystic_wisdom": {
+    "criteria": {
+      "junk": "2025-07-27 05:34:13 +0000"
+    },
+    "done": false
   },
   "incendium:toxic_heap/nuclear_fusion": {
     "criteria": {
@@ -6005,15 +5927,21 @@
     },
     "done": true
   },
-  "incendium:toxic_heap/slime_poison": {
+  "minecraft:recipes/redstone/slime_block": {
     "criteria": {
-      "poison": "2025-07-27 05:33:22 +0000"
+      "has_slime_ball": "2025-07-27 05:34:18 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/lime_glazed_terracotta": {
+  "minecraft:recipes/tools/lead": {
     "criteria": {
-      "has_lime_terracotta": "2025-07-27 05:22:43 +0000"
+      "has_slime_ball": "2025-07-27 05:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-07-27 05:34:18 +0000"
     },
     "done": true
   },
