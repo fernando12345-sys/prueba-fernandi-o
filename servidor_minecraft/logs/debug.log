@@ -4357,3 +4357,39 @@ java.lang.IllegalStateException: not found
 [29Jul2025 19:25:30.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/3068, l='ServerLevel[world]', x=113.65, y=-20.00, z=522.23] died: Toxic Slime was killed
 [29Jul2025 19:26:46.982] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/3541, l='ServerLevel[world]', x=-21.14, y=-20.00, z=546.43] died: Toxic Slime was killed
 [29Jul2025 19:27:15.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/3728, l='ServerLevel[world]', x=96.00, y=-20.00, z=549.26] died: Toxic Slime was killed
+[29Jul2025 19:27:51.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/3865, l='ServerLevel[world]', x=84.24, y=-20.00, z=519.74] died: Toxic Slime was killed
+[29Jul2025 19:27:52.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/3880, l='ServerLevel[world]', x=67.02, y=-20.00, z=546.52] died: Toxic Slime was killed
+[29Jul2025 19:27:52.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/3881, l='ServerLevel[world]', x=57.61, y=-20.00, z=528.26] died: Toxic Slime was killed
+[29Jul2025 19:28:01.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Jul2025 19:28:01.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Jul2025 19:29:00.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4404, l='ServerLevel[world]', x=95.74, y=-20.00, z=486.57] died: Toxic Slime was killed
+[29Jul2025 19:29:07.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4418, l='ServerLevel[world]', x=79.61, y=-20.00, z=507.65] died: Toxic Slime was killed
+[29Jul2025 19:29:08.166] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 19:29:08.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 19:29:31.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4482, l='ServerLevel[world]', x=75.80, y=-20.00, z=516.97] died: Toxic Slime was killed
+[29Jul2025 19:29:48.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4611, l='ServerLevel[world]', x=18.01, y=-20.00, z=525.62] died: Toxic Slime was killed
+[29Jul2025 19:29:48.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4613, l='ServerLevel[world]', x=105.74, y=-20.00, z=512.26] died: Toxic Slime was killed
+[29Jul2025 19:30:08.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4726, l='ServerLevel[world]', x=69.39, y=-20.00, z=465.54] died: Toxic Slime was killed
+[29Jul2025 19:30:45.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4883, l='ServerLevel[world]', x=90.98, y=-20.00, z=522.86] died: Toxic Slime was killed
+[29Jul2025 19:30:49.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4896, l='ServerLevel[world]', x=-16.26, y=-20.00, z=538.26] died: Toxic Slime was killed
+[29Jul2025 19:30:58.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/4946, l='ServerLevel[world]', x=33.26, y=-20.00, z=504.88] died: Toxic Slime was killed
+[29Jul2025 19:31:36.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5042, l='ServerLevel[world]', x=117.74, y=-20.00, z=549.74] died: Toxic Slime was killed
+[29Jul2025 19:32:00.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5147, l='ServerLevel[world]', x=56.26, y=-20.00, z=525.74] died: Toxic Slime was killed
+[29Jul2025 19:32:22.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5231, l='ServerLevel[world]', x=102.13, y=-20.00, z=400.19] died: Toxic Slime was killed
+[29Jul2025 19:32:22.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5235, l='ServerLevel[world]', x=66.44, y=-20.00, z=499.53] died: Toxic Slime was killed
+[29Jul2025 19:32:43.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5298, l='ServerLevel[world]', x=95.74, y=-20.00, z=488.61] died: Toxic Slime was killed
+[29Jul2025 19:32:44.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5310, l='ServerLevel[world]', x=94.54, y=-20.00, z=542.15] died: Toxic Slime was killed
+[29Jul2025 19:33:51.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5536, l='ServerLevel[world]', x=55.73, y=-20.00, z=531.74] died: Toxic Slime was killed
+[29Jul2025 19:34:08.162] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Jul2025 19:34:08.199] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Jul2025 19:34:13.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5589, l='ServerLevel[world]', x=65.93, y=-20.00, z=517.50] died: Toxic Slime was killed
+[29Jul2025 19:34:55.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5910, l='ServerLevel[world]', x=-23.55, y=-20.00, z=548.93] died: Toxic Slime was killed
+[29Jul2025 19:35:10.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/5966, l='ServerLevel[world]', x=-9.74, y=-20.00, z=554.99] died: Toxic Slime was killed
+[29Jul2025 19:35:43.979] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6057, l='ServerLevel[world]', x=14.89, y=-20.00, z=472.72] died: Toxic Slime was killed
+[29Jul2025 19:35:55.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6123, l='ServerLevel[world]', x=66.61, y=-20.00, z=517.55] died: Toxic Slime was killed
+[29Jul2025 19:35:55.981] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6125, l='ServerLevel[world]', x=118.74, y=-20.00, z=544.74] died: Toxic Slime was killed
+[29Jul2025 19:36:41.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6349, l='ServerLevel[world]', x=77.50, y=-20.00, z=485.31] died: Toxic Slime was killed
+[29Jul2025 19:37:04.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6473, l='ServerLevel[world]', x=78.90, y=-20.00, z=468.59] died: Toxic Slime was killed
+[29Jul2025 19:37:23.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6573, l='ServerLevel[world]', x=102.74, y=-20.00, z=495.74] died: Toxic Slime was killed
+[29Jul2025 19:37:27.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6603, l='ServerLevel[world]', x=51.16, y=-20.00, z=419.99] died: Toxic Slime was killed
+[29Jul2025 19:37:28.980] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Slime['Toxic Slime'/6610, l='ServerLevel[world]', x=77.26, y=-20.00, z=494.06] died: Toxic Slime was killed
