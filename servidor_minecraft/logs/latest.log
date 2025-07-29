@@ -901,3 +901,24 @@ java.lang.IllegalStateException: not found
 [29Jul2025 20:33:04.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vida'/19232, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Vida hit the ground too hard'
 [29Jul2025 20:33:16.187] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Mile'/19269, l='ServerLevel[world]', x=-2917.28, y=151.00, z=959.90] died, message: 'Mile hit the ground too hard'
 [29Jul2025 20:35:59.191] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Vlajko'/20105, l='ServerLevel[world]', x=-2916.60, y=151.00, z=959.93] died, message: 'Vlajko hit the ground too hard'
+[29Jul2025 20:47:11.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZeusBread> sa|w
+[29Jul2025 20:48:16.546] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZeusBread lost connection: Disconnected
+[29Jul2025 20:48:16.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZeusBread left the game
+[29Jul2025 20:48:24.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Jul2025 20:48:24.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Jul2025 20:48:24.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Jul2025 20:48:24.703] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: hitmanms0715 lost connection: Server closed
+[29Jul2025 20:48:24.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: hitmanms0715 left the game
+[29Jul2025 20:48:24.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Jul2025 20:48:25.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Jul2025 20:48:25.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Jul2025 20:48:25.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Jul2025 20:48:25.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Jul2025 20:48:25.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Jul2025 20:48:25.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Jul2025 20:48:25.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Jul2025 20:48:25.619] [Server thread/INFO] [Framework/]: Unloading server configs...
+[29Jul2025 20:48:25.620] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[29Jul2025 20:48:25.621] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
+[29Jul2025 20:48:25.621] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[29Jul2025 20:48:25.632] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
